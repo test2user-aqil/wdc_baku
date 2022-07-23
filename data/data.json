@@ -3,5 +3,10 @@
         "date_time": "23-07-2022 08:52:15",
         "temperature": 27.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "23-07-2022 10:08:45",
+        "temperature": 28.03,
+        "description": "few clouds"
     }
 ]
