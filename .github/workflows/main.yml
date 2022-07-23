@@ -1,8 +1,8 @@
-name: run script
+name: Run Python Script
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # runs every 3 hours
+    - cron: '0 */3 * * *' # Runs every 3 hours
   
   # Allows you to run this workflow manually from the Actions tab.
   workflow_dispatch:
@@ -13,30 +13,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: checkout repo content
+      - name: Checkout repo content
         uses: actions/checkout@v2 # Checkout the repository content to github runner
 
-      - name: setup python
+      - name: Setup python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9' # Install python
           
-      - name: install python packages
+      - name: Install python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: execute py script # Run main.py
+      - name: Execute python script # Run main.py
         run: python main.py
           
-      - name: commit files
+      - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "update log" --allow-empty)
           
-      - name: push changes
+      - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
