@@ -58,5 +58,10 @@
         "date_time": "24-07-2022 16:12:02",
         "temperature": 26.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "24-07-2022 19:06:48",
+        "temperature": 24.03,
+        "description": "scattered clouds"
     }
 ]
