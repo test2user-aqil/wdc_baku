@@ -128,5 +128,10 @@
         "date_time": "26-07-2022 10:10:18",
         "temperature": 28.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "26-07-2022 13:07:04",
+        "temperature": 30.03,
+        "description": "clear sky"
     }
 ]
