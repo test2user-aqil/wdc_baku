@@ -208,5 +208,10 @@
         "date_time": "28-07-2022 10:09:26",
         "temperature": 26.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "28-07-2022 13:06:52",
+        "temperature": 27.03,
+        "description": "broken clouds"
     }
 ]
