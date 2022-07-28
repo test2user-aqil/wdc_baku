@@ -218,5 +218,10 @@
         "date_time": "28-07-2022 16:16:39",
         "temperature": 28.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "28-07-2022 19:07:02",
+        "temperature": 26.03,
+        "description": "few clouds"
     }
 ]
