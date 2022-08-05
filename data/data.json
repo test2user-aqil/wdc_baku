@@ -548,5 +548,10 @@
         "date_time": "05-08-2022 22:08:55",
         "temperature": 27.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "06-08-2022 01:06:23",
+        "temperature": 27.03,
+        "description": "few clouds"
     }
 ]
