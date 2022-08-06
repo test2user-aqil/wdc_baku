@@ -26,17 +26,13 @@ jobs:
       - name: Build
         run: yarn build
       
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git config --local init.defaultBranch master
-          git init 
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "update log" --allow-empty)
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages 
+          source-directory: 'dist'
+          destination-github-username: 'test2user-aqil'
+          destination-repository-name: 'weatherdatacollector_baku'
+          user-email: testuser-aqil@protonmail.com
+          target-branch: ph-pages
