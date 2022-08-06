@@ -20,7 +20,10 @@ jobs:
         with:
           node-version: '18'
           cache: 'npm'
-        
+      
+      - name: Install dependencies
+        run: npm ci
+
       - name: Run Script
         run: sh ./scripts/deploy.sh
 
