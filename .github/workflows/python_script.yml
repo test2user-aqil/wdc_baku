@@ -27,7 +27,7 @@ jobs:
           pip install -r requirements.txt
           
       - name: Execute python script # Run main.py
-        run: cd scripts && python main.py
+        run: cd scripts && python main.py && cd ..
           
       - name: Commit files
         run: |

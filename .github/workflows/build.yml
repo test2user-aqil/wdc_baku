@@ -1,0 +1,27 @@
+name: Build Project
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout repo content
+        uses: actions/checkout@v2 
+
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+          cache: 'npm'
+        
+      - name: Run Script
+        run: sh ./scripts/deploy.sh
+
+      
