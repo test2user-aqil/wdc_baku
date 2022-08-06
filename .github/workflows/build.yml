@@ -23,8 +23,26 @@ jobs:
       
       - name: Install dependencies
         run: yarn install
+      
+      - name: Build project
+        run: yarn build
+      
+      - name: Commit
+        run: |
+          cd dist
 
-      - name: Run Script
-        run: sh ./scripts/deploy.sh
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          git init
+          git checkout -b master
+          git diff-index --quiet HEAD || (git commit -a -m "update log" --allow-empty)
+        
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages 
 
       
