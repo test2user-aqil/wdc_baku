@@ -35,4 +35,4 @@ jobs:
           destination-github-username: 'test2user-aqil'
           destination-repository-name: 'weatherdatacollector_baku'
           user-email: testuser-aqil@protonmail.com
-          target-branch: ph-pages
+          target-branch: gh-pages
