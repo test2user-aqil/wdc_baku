@@ -59,5 +59,5 @@ if __name__ == "__main__":
             }
         )
 
-        with open("data/data.json", "w") as f:
+        with open("../data/data.json", "w") as f:
             json.dump(json_data, f, indent=4, separators=(",", ": "))
