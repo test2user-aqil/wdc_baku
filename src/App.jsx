@@ -1,11 +1,13 @@
 import "./index.css";
+import WeatherChart from "./components/WeatherChart";
 
 function App() {
     return (
-        <div className="bg-gray-900 min-h-screen text-blue-200 justify-center items-start flex">
-            <div className="mt-10 font-mono text-3xl">
+        <div className=" min-h-screen text-blue-200 justify-center items-start flex">
+            {/* <div className="mt-10 font-mono text-3xl">
                 Weather Data Collector <b>Baku</b>
-            </div>
+            </div> */}
+            <WeatherChart />
         </div>
     );
 }
