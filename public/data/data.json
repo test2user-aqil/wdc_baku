@@ -618,5 +618,10 @@
         "date_time": "07-08-2022 16:29:49",
         "temperature": 30.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "07-08-2022 19:16:48",
+        "temperature": 28.03,
+        "description": "scattered clouds"
     }
 ]
