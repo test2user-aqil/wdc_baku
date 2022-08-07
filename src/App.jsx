@@ -7,6 +7,7 @@ function App() {
             <div className="font-mono lg:text-5xl md:text-4xl text-3xl transition-all duration-300">
                 Weather Data Collector <span className="underline">Baku</span>
             </div>
+            <WeatherChart day={4} month={8} year={2022}/>
         </div>
     );
 }
