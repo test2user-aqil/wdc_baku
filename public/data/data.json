@@ -638,5 +638,10 @@
         "date_time": "08-08-2022 05:40:41",
         "temperature": 24.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "08-08-2022 07:56:59",
+        "temperature": 24.03,
+        "description": "light intensity shower rain"
     }
 ]
