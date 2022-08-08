@@ -14,4 +14,5 @@
 -   Node.js
     -   Vite
     -   Svelte
+    -   Chart.js
     -   TailwindCSS
