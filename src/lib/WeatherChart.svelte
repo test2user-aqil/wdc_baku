@@ -1,30 +1,46 @@
 <script>
-	import chartjs from 'chart.js';
-	let chartData;
-	import { onMount } from 'svelte';
+    import Chart from "chart.js";
+    import { onMount } from "svelte";
 
-	let chartValues = [20, 10, 5, 2, 20, 30, 45];
-	let chartLabels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
-	let ctx;
-	let chartCanvas;
+    export let day, month, year;
 
-	onMount(async (promise) => {
-		  ctx = chartCanvas.getContext('2d');
-			var chart = new chartjs(ctx, {
-				type: 'line',
-				data: {
-						labels: chartLabels,
-						datasets: [{
-								label: 'Temperature',
-								backgroundColor: '#0085ff',
-								borderColor: '#0085ffaa',
-								data: chartValues
-						}]
-				}
-		});
+    let chartValues = [];
+    let chartLabels = [];
+    let ctx;
+    let chartCanvas;
 
-	});
+    onMount(async (promise) => {
+        const response = await fetch("/data/data.json");
+        const result = await response.json();
+        await result.map((i) => {
+            if (
+                parseInt(i.date_time.slice(6, 10)) === year &&
+                parseInt(i.date_time.slice(3, 5)) === month &&
+                parseInt(i.date_time.slice(0, 2)) === day
+            ) {
+                chartValues.push(parseInt(i.temperature));
+                chartLabels.push(i.date_time.slice(10, 16));
+            }
+        });
 
+        ctx = await chartCanvas.getContext("2d");
+        var chart = new Chart(ctx, {
+            type: "line",
+            data: {
+                labels: chartLabels,
+                datasets: [
+                    {
+                        label: "Temperature",
+                        backgroundColor: "#0085ff33",
+                        borderColor: "#0085ff",
+                        data: chartValues,
+                        fill: true,
+                        lineTension: 0.5,
+                    },
+                ],
+            },
+        });
+    });
 </script>
 
-<canvas bind:this={chartCanvas} id="myChart"></canvas>
+<canvas bind:this={chartCanvas} id="myChart" />
