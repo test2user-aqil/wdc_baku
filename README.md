@@ -13,5 +13,5 @@
         > `black` was used to format .py file
 -   Node.js
     -   Vite
-    -   React.js
+    -   Svelte
     -   TailwindCSS
