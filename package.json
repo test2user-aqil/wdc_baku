@@ -17,7 +17,6 @@
         "vite": "^3.0.0"
     },
     "dependencies": {
-        "chart.js": "^3.9.1",
-        "svelte-chartjs": "^2.0.1"
+        "chart.js": "2.6.0"
     }
 }

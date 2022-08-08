@@ -1,44 +1,30 @@
 <script>
-    import { Line } from "svelte-chartjs";
+	import chartjs from 'chart.js';
+	let chartData;
+	import { onMount } from 'svelte';
 
-    let count = 0;
+	let chartValues = [20, 10, 5, 2, 20, 30, 45];
+	let chartLabels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
+	let ctx;
+	let chartCanvas;
+
+	onMount(async (promise) => {
+		  ctx = chartCanvas.getContext('2d');
+			var chart = new chartjs(ctx, {
+				type: 'line',
+				data: {
+						labels: chartLabels,
+						datasets: [{
+								label: 'Temperature',
+								backgroundColor: '#0085ff',
+								borderColor: '#0085ffaa',
+								data: chartValues
+						}]
+				}
+		});
+
+	});
+
 </script>
 
-<input type="number" name="" id="" bind:value={count} />
-
-<Line
-    data={{
-        labels: [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May",
-            "June",
-            "July",
-        ],
-        datasets: [
-            {
-                label: "My First dataset",
-                fill: true,
-                tension: 0.3,
-                backgroundColor: "rgba(225, 204,230, .3)",
-                borderColor: "rgb(205, 130, 158)",
-                borderCapStyle: "butt",
-                borderDash: [],
-                borderDashOffset: 0.0,
-                borderJoinStyle: "miter",
-                pointBorderColor: "rgb(205, 130,1 58)",
-                pointBackgroundColor: "rgb(255, 255, 255)",
-                pointBorderWidth: 10,
-                pointHoverRadius: 5,
-                pointHoverBackgroundColor: "rgb(0, 0, 0)",
-                pointHoverBorderColor: "rgba(220, 220, 220,1)",
-                pointHoverBorderWidth: 2,
-                pointRadius: 1,
-                pointHitRadius: 10,
-                data: [count, 59, 80, 81, 56, 55, 40],
-            },
-        ],
-    }}
-/>
+<canvas bind:this={chartCanvas} id="myChart"></canvas>
