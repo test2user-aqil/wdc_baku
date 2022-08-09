@@ -10,6 +10,9 @@
     let ctx;
     let chartCanvas;
 
+    var fontFamily =
+        'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI"';
+
     const get = async () => {
         data.map((i) => {
             if (
@@ -39,8 +42,8 @@
                         fill: true,
                         lineTension: 0.5,
                         AxisID: 0,
-                        pointRadius: 5,
-                        pointHoverRadius: 7,
+                        pointRadius: 6,
+                        pointHoverRadius: 8,
                         pointBackgroundColor: "#0085ff",
                     },
                 ],
@@ -48,6 +51,26 @@
             options: {
                 tooltips: {
                     enabled: true,
+                    intersect: true,
+                    backgroundColor: "#0f0f19",
+                    cornerRadius: 10,
+                    titleFontSize: 15,
+                    titleFontColor: "#ced6ff",
+                    titleFontFamily: fontFamily,
+                    bodyFontSize: 14,
+                    bodyFontColor: "#ced6ff",
+                    bodyFontFamily: fontFamily,
+                    bodyFontStyle: "normal",
+                    yPadding: 10,
+                    xPadding: 10,
+                    caretPadding: 8,
+                    displayColors: false,
+
+                    callbacks: {
+                        label: (value) => {
+                            return "Temperature: " + value.value + " °C";
+                        },
+                    },
                 },
                 responsive: true,
                 scales: {
@@ -78,19 +101,17 @@
                     ],
                 },
                 legend: {
-                    display: false,
+                    display: true,
                     labels: {
-                        fontSize: 14,
-                        fontColor: "#ced6ffaa",
-                        boxWidth: 20,
-                        usePointStyle: false,
-                    }
+                        fontSize: 15,
+                        fontColor: "#ced6ffdd",
+                        fontFamily: fontFamily,
+                        boxWidth: 8,
+                        usePointStyle: true,
+                    },
                 },
                 animation: {
                     duration: 1200,
-                    onProgress: (animation) => {
-                        console.log(animation.currentStep)
-                    },
                 },
             },
         });
