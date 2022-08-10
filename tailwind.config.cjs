@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-    mode: 'jit',
+    mode: "jit",
     content: ["./index.html", "./src/**/*.{svelte,vue,js,ts,jsx,tsx}"],
     theme: {
         extend: {
@@ -9,6 +9,7 @@ module.exports = {
                 fg: "#ced6ff",
                 dark0: "#0f0f19",
                 accent1: "#0085ff",
+                accent1hover: "#6cb7fc",
             },
         },
     },

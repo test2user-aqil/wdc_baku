@@ -51,7 +51,7 @@
                 datasets: [
                     {
                         label: "Temperature",
-                        backgroundColor: "#0085ff22",
+                        backgroundColor: "#0085ff4f",
                         borderColor: "#0085ff",
                         data: chartValues,
                         fill: true,
