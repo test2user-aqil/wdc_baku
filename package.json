@@ -3,7 +3,9 @@
     "private": true,
     "version": "0.0.1",
     "type": "module",
-    "homepage": "https://test2user-aqil.github.io/weatherdatacollector_baku/",
+    "repository": {
+        "url": "https://test2user-aqil.github.io/weatherdatacollector_baku/"
+    },
     "scripts": {
         "dev": "vite",
         "build": "vite build",
