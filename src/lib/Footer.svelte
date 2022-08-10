@@ -7,6 +7,10 @@
     <div class="text-fg">
         Copyright &copy; <span id="copyrightYear"
             >{new Date().getFullYear()}</span
-        > <span class="font-mono tracking-tight">test2user-aqil</span>
+        >
+        <a
+            href="https://github.com/test2user-aqil/"
+            class="font-mono tracking-tight text-accent1hover">test2user-aqil</a
+        >
     </div>
 </footer>
