@@ -2,6 +2,8 @@
     import Hero from "./lib/Hero.svelte";
     import WeatherChart from "./lib/WeatherChart.svelte";
     import DateSwitcher from "./lib/DateSwitcher.svelte";
+
+    let day = 23;
 </script>
 
 <main
@@ -9,5 +11,13 @@
 >
     <Hero />
     <DateSwitcher />
-    <WeatherChart day={1} month={8} year={2022} />
+
+    <button
+        on:click={() => {
+            day++;
+            console.log(day);
+        }}>+++</button
+    >
+
+    <WeatherChart {day} month={7} year={2022} />
 </main>
