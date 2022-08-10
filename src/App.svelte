@@ -3,7 +3,7 @@
     import WeatherChart from "./lib/WeatherChart.svelte";
     import DateSwitcher from "./lib/DateSwitcher.svelte";
 
-    let day = 23;
+    import { DateStore } from "./stores/DateStore";
 </script>
 
 <main
@@ -12,12 +12,9 @@
     <Hero />
     <DateSwitcher />
 
-    <button
-        on:click={() => {
-            day++;
-            console.log(day);
-        }}>+++</button
-    >
-
-    <WeatherChart {day} month={7} year={2022} />
+    <WeatherChart
+        day={parseInt($DateStore.slice(8, 10))}
+        month={parseInt($DateStore.slice(5, 7))}
+        year={parseInt($DateStore.slice(0, 4))}
+    />
 </main>

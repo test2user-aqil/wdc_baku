@@ -12,7 +12,7 @@
     let chart;
     let updates = 0;
 
-    var fontFamily =
+    let fontFamily =
         'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI"';
 
     const get = async () => {
@@ -38,7 +38,7 @@
             chart.data.datasets[0].data = chartValues;
             chart.update();
         }
-        console.log(updates, " (before update)");
+        // console.log(updates, " (before update)");
         updates++;
     });
 
@@ -131,11 +131,7 @@
             },
         });
 
-        console.log("after update");
     });
 </script>
 
 <canvas bind:this={chartCanvas} id="weatherChart" />
-<p class="font-mono text-4xl bg-dark0 py-3 px-8 rounded-lg">
-    Chart is in progress
-</p>
