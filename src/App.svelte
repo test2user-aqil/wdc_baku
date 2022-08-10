@@ -2,6 +2,7 @@
     import Hero from "./lib/Hero.svelte";
     import WeatherChart from "./lib/WeatherChart.svelte";
     import DateSwitcher from "./lib/DateSwitcher.svelte";
+    import Footer from "./lib/Footer.svelte";
 
     import { DateStore } from "./stores/DateStore";
 </script>
@@ -17,4 +18,6 @@
         month={parseInt($DateStore.slice(5, 7))}
         year={parseInt($DateStore.slice(0, 4))}
     />
+
+    <Footer />
 </main>

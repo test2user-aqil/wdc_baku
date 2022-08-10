@@ -134,4 +134,4 @@
     });
 </script>
 
-<canvas bind:this={chartCanvas} id="weatherChart" />
+<canvas bind:this={chartCanvas} id="weatherChart" width="5" height="2"/>
