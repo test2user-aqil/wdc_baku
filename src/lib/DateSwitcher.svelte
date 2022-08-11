@@ -1,14 +1,27 @@
 <script>
     import { DateStore } from "../stores/DateStore";
+
+    function decreaseDate() {
+        document.getElementById("dateSwitcher").stepDown(1);
+        DateStore.set(document.getElementById("dateSwitcher").value);
+    }
+    function increaseDate() {
+        document.getElementById("dateSwitcher").stepUp(1);
+        DateStore.set(document.getElementById("dateSwitcher").value);
+    }
+
+    document.addEventListener("keydown", (e) => {
+        if(e.code =="ArrowRight"){
+            increaseDate()
+        }
+        if(e.code == "ArrowLeft"){
+            decreaseDate()
+        }
+    });
 </script>
 
 <div class="flex justify-center">
-    <button
-        on:click={() => {
-            document.getElementById("dateSwitcher").stepDown(1);
-            DateStore.set(document.getElementById("dateSwitcher").value);
-        }}
-    >
+    <button on:click={decreaseDate}>
         <div
             class="bg-dark0 rounded-full border-4 border-fg w-16 h-16 text-3xl flex items-center justify-center focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
         >
@@ -24,12 +37,7 @@
         bind:value={$DateStore}
     />
 
-    <button
-        on:click={() => {
-            document.getElementById("dateSwitcher").stepUp(1);
-            DateStore.set(document.getElementById("dateSwitcher").value);
-        }}
-    >
+    <button on:click={increaseDate}>
         <div
             class="bg-dark0 rounded-full border-4 border-fg w-16 h-16 text-3xl flex items-center justify-center focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
         >
