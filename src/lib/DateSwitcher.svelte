@@ -1,7 +1,7 @@
 <script>
     // @ts-nocheck
 
-    import { DateStore } from "../stores/DateStore";
+    import { DateStore, todaysDate } from "../stores/DateStore";
 
     function decreaseDate() {
         document.getElementById("dateSwitcher").stepDown(1);
@@ -19,6 +19,10 @@
         if (e.code == "ArrowLeft") {
             decreaseDate();
         }
+        if (e.code == "Enter" || e.code == "Home") {
+            DateStore.set(todaysDate());
+        }
+        console.log(e.code);
     });
 </script>
 
@@ -48,5 +52,7 @@
             </div>
         </button>
     </div>
-    <code class="text-xs opacity-70 pt-2">Use arrow keys to navigate</code>
+    <code class="text-xs opacity-70 pt-2 text-center"
+        >Use Arrow keys to navigate,<br />Enter to return today's date</code
+    >
 </div>
