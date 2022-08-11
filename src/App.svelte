@@ -8,7 +8,7 @@
 </script>
 
 <main
-    class="text-fg max-w-5xl mx-auto justify-start items-center flex flex-col gap-10 py-16"
+    class="text-fg max-w-5xl mx-auto justify-start items-center flex flex-col gap-10 pt-16"
 >
     <Hero />
     <DateSwitcher />

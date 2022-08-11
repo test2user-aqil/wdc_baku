@@ -10,7 +10,8 @@
         >
         <a
             href="https://github.com/test2user-aqil/"
-            class="font-mono tracking-tight text-accent1hover">test2user-aqil</a
+            class="font-mono tracking-tight text-accent1hover hover:brightness-125 duration-300"
+            >test2user-aqil</a
         >
     </div>
 </footer>

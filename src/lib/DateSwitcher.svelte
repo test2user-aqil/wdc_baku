@@ -2,10 +2,38 @@
     import { DateStore } from "../stores/DateStore";
 </script>
 
-<input
-    type="date"
-    name="dateSwitcher"
-    id="dateSwitcher"
-    class="cursor-pointer bg-dark0 border-4 border-fg text-fg h-16 py-4 px-12 rounded-full font-mono focus:outline-none outline-none shadow-xl shadow-accent1/5 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover transition-all duration-300 hover:brightness-110"
-    bind:value={$DateStore}
-/>
+<div class="flex justify-center">
+    <button
+        on:click={() => {
+            document.getElementById("dateSwitcher").stepDown(1);
+            DateStore.set(document.getElementById("dateSwitcher").value);
+        }}
+    >
+        <div
+            class="bg-dark0 rounded-full border-4 border-fg w-16 h-16 text-3xl flex items-center justify-center focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
+        >
+            <div class="w-min">&#x2190;</div>
+        </div>
+    </button>
+
+    <input
+        type="date"
+        name="dateSwitcher"
+        id="dateSwitcher"
+        class="cursor-pointer mx-4 bg-dark0 border-4 border-fg text-fg py-4 px-12 rounded-full font-mono focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
+        bind:value={$DateStore}
+    />
+
+    <button
+        on:click={() => {
+            document.getElementById("dateSwitcher").stepUp(1);
+            DateStore.set(document.getElementById("dateSwitcher").value);
+        }}
+    >
+        <div
+            class="bg-dark0 rounded-full border-4 border-fg w-16 h-16 text-3xl flex items-center justify-center focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
+        >
+            <div class="w-min">&#x2192;</div>
+        </div>
+    </button>
+</div>
