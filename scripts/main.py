@@ -1,3 +1,4 @@
+import os
 from datetime import datetime
 import logging
 from pytz import timezone, utc
@@ -28,11 +29,18 @@ logger.addHandler(logger_file_handler)
 
 
 if __name__ == "__main__":
-    r = requests.get("https://weather.talkpython.fm/api/weather?city=baku&country=AZ")
+    try:
+        API_KEY = os.environ["API_KEY"]
+    except KeyError:
+        raise
+
+    url = "https://api.openweathermap.org/data/2.5/weather?q=baku&units=metric&appid=" + API_KEY
+
+    r = requests.get(url)
 
     if r.status_code == 200:
         data = r.json()
-        temperature = data["forecast"]["temp"]
+        temperature = data["main"]["temp"]
         description = data["weather"]["description"]
         logger.info(f"Weather in Baku: {temperature}°C - {description}")
 
