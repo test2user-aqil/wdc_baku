@@ -41,7 +41,7 @@ if __name__ == "__main__":
     if r.status_code == 200:
         data = r.json()
         temperature = data["main"]["temp"]
-        description = data["weather"]["description"]
+        description = data["weather"][0]["description"]
         logger.info(f"Weather in Baku: {temperature}°C - {description}")
 
         with open("../public/data/data.csv", mode="a") as csv_file:
