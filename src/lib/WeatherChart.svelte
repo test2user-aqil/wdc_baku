@@ -5,7 +5,8 @@
 
     export let day, month, year;
 
-    let chartValues = [];
+    let chartValuesTemperature = [];
+    let chartValuesDescription = [];
     let chartLabels = [];
     let ctx;
     let chartCanvas;
@@ -22,20 +23,25 @@
                 parseInt(i.date_time.slice(3, 5)) === month &&
                 parseInt(i.date_time.slice(0, 2)) === day
             ) {
-                chartValues.push(i.temperature);
+                var desc_ =
+                    i.description.charAt(0).toUpperCase() +
+                    i.description.slice(1);
+                chartValuesTemperature.push(i.temperature);
+                chartValuesDescription.push(desc_);
                 chartLabels.push(i.date_time.slice(10, 16));
             }
         });
     };
     beforeUpdate(async () => {
         chartLabels = [];
-        chartValues = [];
+        chartValuesTemperature = [];
+        chartValuesDescription = [];
         ctx = null;
         await get();
 
         if (updates > 1) {
             chart.data.labels = chartLabels;
-            chart.data.datasets[0].data = chartValues;
+            chart.data.datasets[0].data = chartValuesTemperature;
             chart.update();
         }
         // console.log(updates, " (before update)");
@@ -53,7 +59,7 @@
                         label: "Temperature",
                         backgroundColor: "#0085ff4f",
                         borderColor: "#0085ff",
-                        data: chartValues,
+                        data: chartValuesTemperature,
                         fill: true,
                         lineTension: 0.5,
                         AxisID: 0,
@@ -76,6 +82,10 @@
                     bodyFontColor: "#ced6ff",
                     bodyFontFamily: fontFamily,
                     bodyFontStyle: "normal",
+                    footerFontFamily: fontFamily,
+                    footerFontStyle: "normal",
+                    footerFontColor: "#ced6ff",
+                    footerFontSize: 13,
                     yPadding: 10,
                     xPadding: 10,
                     caretPadding: 8,
@@ -84,6 +94,9 @@
                     callbacks: {
                         label: (value) => {
                             return "Temperature: " + value.value + " °C";
+                        },
+                        footer: (value) => {
+                            return chartValuesDescription[value[0].index];
                         },
                     },
                 },
@@ -130,8 +143,7 @@
                 },
             },
         });
-
     });
 </script>
 
-<canvas bind:this={chartCanvas} id="weatherChart" width="5" height="2"/>
+<canvas bind:this={chartCanvas} id="weatherChart" width="5" height="2" />
