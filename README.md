@@ -12,7 +12,11 @@
     -   black
         > `black` was used to format .py file
 -   Node.js
+
     -   Vite
     -   Svelte
     -   Chart.js `2.9.4`
     -   TailwindCSS
+
+-   APIs
+    -   OpenWeatherMap
