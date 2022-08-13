@@ -105,6 +105,12 @@
                 scales: {
                     yAxes: [
                         {
+                            scaleLabel: {
+                                display: false,
+                                labelString: "Temperature (°C)",
+                                fontFamily: fontFamily,
+                                fontColor: "#ced6ffdd",
+                            },
                             gridLines: {
                                 display: true,
                                 color: "#ced6ff20",
@@ -117,6 +123,7 @@
                                 },
                                 beginAtZero: true,
                                 suggestedMax: 40,
+                                fontColor: "#ced6ff90",
                             },
                         },
                     ],
@@ -125,6 +132,9 @@
                         {
                             gridLines: {
                                 display: false,
+                            },
+                            ticks: {
+                                fontColor: "#ced6ff90",
                             },
                         },
                     ],
