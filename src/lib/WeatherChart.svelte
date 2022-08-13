@@ -50,6 +50,7 @@
 
     onMount(async () => {
         ctx = await chartCanvas.getContext("2d");
+        // @ts-ignore
         chart = await new chartjs(ctx, {
             type: "line",
             data: {

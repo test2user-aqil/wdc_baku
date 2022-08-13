@@ -22,7 +22,7 @@
         if (e.code == "Enter" || e.code == "Home") {
             DateStore.set(todaysDate());
         }
-        console.log(e.code);
+        // console.log(e.code);
     });
 </script>
 
