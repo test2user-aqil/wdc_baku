@@ -2,7 +2,7 @@
 
 ## Short description
 
-The python script is run by the Actions bot every 2 hours. After the script finishes running, the other action starts and builds the project and pushes it in the gh-pages branch.
+The python script is run by the Actions bot every 2 hours. After the script finishes running, the other action starts and builds the project and pushes it in the `gh-pages` branch.
 
 
 ## **Technologies used**
