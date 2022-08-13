@@ -873,5 +873,10 @@
         "date_time": "13-08-2022 18:07:42",
         "temperature": 32.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "13-08-2022 20:10:03",
+        "temperature": 30.03,
+        "description": "thunderstorm"
     }
 ]
