@@ -12,7 +12,7 @@
         >
         <a
             target="_blank"
-            href="https://github.com/test2user-aqil/"
+            href="https://test2user-aqil.github.io/"
             class="font-mono tracking-tight text-accent1hover hover:brightness-125 duration-300"
             >test2user-aqil</a
         >
