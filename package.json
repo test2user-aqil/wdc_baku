@@ -1,7 +1,6 @@
 {
     "name": "weatherdatacollector_baku",
-    "private": true,
-    "version": "0.0.1",
+    "version": "0.1.0",
     "type": "module",
     "repository": {
         "url": "https://test2user-aqil.github.io/weatherdatacollector_baku/"
