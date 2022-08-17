@@ -17,10 +17,14 @@ The python script is run by the Actions bot every 2 hours. After the script fini
         > `black` was used to format .py file
 -   Node.js
 
+    -   TypeScript
     -   Vite
     -   Svelte
     -   Chart.js `2.9.4`
     -   TailwindCSS
+    -   Prettier
+    -   ESlint
+        > `prettier` & `eslint` was used to format & lint files
 
 -   APIs
     -   OpenWeatherMap
