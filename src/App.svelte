@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import Hero from "./lib/Hero.svelte";
     import WeatherChart from "./lib/WeatherChart.svelte";
     import DateSwitcher from "./lib/DateSwitcher.svelte";
@@ -21,3 +21,4 @@
 
     <Footer />
 </main>
+

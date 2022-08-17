@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     import chartjs from "chart.js";
     import { onMount, beforeUpdate } from "svelte";
     import data from "../../public/data/data.json";
@@ -50,7 +50,6 @@
 
     onMount(async () => {
         ctx = await chartCanvas.getContext("2d");
-        // @ts-ignore
         chart = await new chartjs(ctx, {
             type: "line",
             data: {
