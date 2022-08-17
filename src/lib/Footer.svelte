@@ -7,9 +7,7 @@
     <div
         class="text-fg relative after:absolute after:inset-0 after:-z-10 after:blur-[1000px] after:bg-accent1 after:-translate-y-10 after:rounded-full after:h-[80px]"
     >
-        Copyright &copy; <span id="copyrightYear"
-            >{new Date().getFullYear()}</span
-        >
+        Copyright &copy; <span id="copyrightYear">{new Date().getFullYear()}</span>
         <a
             target="_blank"
             href="https://test2user-aqil.github.io/"

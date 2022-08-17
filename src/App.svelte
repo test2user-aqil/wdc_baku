@@ -7,9 +7,7 @@
     import { DateStore } from "./stores/DateStore";
 </script>
 
-<main
-    class="text-fg max-w-5xl mx-auto justify-start items-center flex flex-col gap-10 pt-16"
->
+<main class="text-fg max-w-5xl mx-auto justify-start items-center flex flex-col gap-10 pt-16">
     <Hero />
     <DateSwitcher />
 
@@ -21,4 +19,3 @@
 
     <Footer />
 </main>
-

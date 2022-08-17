@@ -9,9 +9,9 @@ module.exports = {
                 fg: "#ced6ff",
                 dark0: "#0f0f19",
                 accent1: "#0085ff",
-                accent1hover: "#6cb7fc",
-            },
-        },
+                accent1hover: "#6cb7fc"
+            }
+        }
     },
-    plugins: [],
+    plugins: []
 };

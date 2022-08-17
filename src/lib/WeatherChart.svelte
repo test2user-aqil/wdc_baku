@@ -13,8 +13,7 @@
     let chart;
     let updates = 0;
 
-    let fontFamily =
-        'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI"';
+    let fontFamily = 'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI"';
 
     const get = async () => {
         data.map((i) => {
@@ -23,9 +22,7 @@
                 parseInt(i.date_time.slice(3, 5)) === month &&
                 parseInt(i.date_time.slice(0, 2)) === day
             ) {
-                var desc_ =
-                    i.description.charAt(0).toUpperCase() +
-                    i.description.slice(1);
+                var desc_ = i.description.charAt(0).toUpperCase() + i.description.slice(1);
                 chartValuesTemperature.push(i.temperature);
                 chartValuesDescription.push(desc_);
                 chartLabels.push(i.date_time.slice(10, 16));
@@ -65,9 +62,9 @@
                         AxisID: 0,
                         pointRadius: 6,
                         pointHoverRadius: 8,
-                        pointBackgroundColor: "#0085ff",
-                    },
-                ],
+                        pointBackgroundColor: "#0085ff"
+                    }
+                ]
             },
             options: {
                 tooltips: {
@@ -97,8 +94,8 @@
                         },
                         footer: (value) => {
                             return chartValuesDescription[value[0].index];
-                        },
-                    },
+                        }
+                    }
                 },
                 responsive: true,
                 scales: {
@@ -108,12 +105,12 @@
                                 display: false,
                                 labelString: "Temperature (°C)",
                                 fontFamily: fontFamily,
-                                fontColor: "#ced6ffdd",
+                                fontColor: "#ced6ffdd"
                             },
                             gridLines: {
                                 display: true,
                                 color: "#ced6ff20",
-                                drawTicks: false,
+                                drawTicks: false
                             },
 
                             ticks: {
@@ -122,21 +119,21 @@
                                 },
                                 beginAtZero: true,
                                 suggestedMax: 40,
-                                fontColor: "#ced6ff90",
-                            },
-                        },
+                                fontColor: "#ced6ff90"
+                            }
+                        }
                     ],
 
                     xAxes: [
                         {
                             gridLines: {
-                                display: false,
+                                display: false
                             },
                             ticks: {
-                                fontColor: "#ced6ff90",
-                            },
-                        },
-                    ],
+                                fontColor: "#ced6ff90"
+                            }
+                        }
+                    ]
                 },
                 legend: {
                     display: true,
@@ -145,13 +142,13 @@
                         fontColor: "#ced6ffdd",
                         fontFamily: fontFamily,
                         boxWidth: 8,
-                        usePointStyle: true,
-                    },
+                        usePointStyle: true
+                    }
                 },
                 animation: {
-                    duration: 1200,
-                },
-            },
+                    duration: 1200
+                }
+            }
         });
     });
 </script>
