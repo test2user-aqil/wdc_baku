@@ -136,7 +136,7 @@
                     ]
                 },
                 legend: {
-                    display: true,
+                    display: false,
                     labels: {
                         fontSize: 15,
                         fontColor: "#ced6ffdd",

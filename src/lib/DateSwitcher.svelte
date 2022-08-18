@@ -160,7 +160,7 @@
         }}>&bull;&bull;&bull;</button
     >
     <code id="keys" class="text-xs opacity-70 pt-1 text-center hidden"
-        >Use Arrow keys to navigate,<br />Enter to return today's date<br />Space to return
+        >Use Arrow keys to navigate,<br />Enter to return today's date,<br />Space to return
         yesterday's date</code
     >
 </div>

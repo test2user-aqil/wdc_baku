@@ -13,6 +13,7 @@
 ![node-current](https://img.shields.io/node/v/latest)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/test2user-aqil/weatherdatacollector_baku)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/test2user-aqil/weatherdatacollector_baku)
+
 <!--[![GitHub stars](https://img.shields.io/github/stars/test2user-aqil/weatherdatacollector_baku)](https://github.com/test2user-aqil/weatherdatacollector_baku)-->
 
 ## Short description
