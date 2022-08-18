@@ -2,10 +2,13 @@
     // @ts-nocheck
 
     import { DateStore, todaysDate, yesterdaysDate } from "../stores/DateStore";
-    import { beforeUpdate } from "svelte";
+    import { afterUpdate } from "svelte";
 
-    let updates = 0;
     let show = false;
+    let btn;
+    let date_switcher;
+    let decrease_btn;
+    let increase_btn;
 
     function decreaseDate() {
         document.getElementById("dateSwitcher").stepDown(1);
@@ -29,9 +32,11 @@
             case "Enter":
             case "Home":
                 DateStore.set(todaysDate());
+                handleDateSwitcher();
                 break;
 
             case "Space":
+                handleDateSwitcher();
                 DateStore.set(yesterdaysDate());
                 break;
 
@@ -41,16 +46,43 @@
         }
     });
 
-    beforeUpdate(() => {
-        let btn = document.getElementById("keys");
-        if (updates > 0) {
-            if (show) {
-                btn.classList.remove("hidden");
-            } else {
-                btn.classList.add("hidden");
-            }
+    function handleDateSwitcher() {
+        date_switcher = document.getElementById("dateSwitcher");
+        increase_btn = document.getElementById("increaseDate");
+        decrease_btn = document.getElementById("decreaseDate");
+        if (date_switcher.value !== todaysDate && date_switcher.value !== "2022-07-23") {
+            increase_btn.classList.remove("invisible");
+            decrease_btn.classList.remove("invisible");
         }
-        updates++;
+        if (date_switcher.value === todaysDate()) {
+            increase_btn.classList.add("invisible");
+        }
+        if (date_switcher.value === "2022-07-23") {
+            decrease_btn.classList.add("invisible");
+        }
+    }
+
+    afterUpdate(() => {
+        btn = document.getElementById("keys");
+        date_switcher = document.getElementById("dateSwitcher");
+        increase_btn = document.getElementById("increaseDate");
+        decrease_btn = document.getElementById("decreaseDate");
+        if (show) {
+            btn.classList.remove("hidden");
+        } else {
+            btn.classList.add("hidden");
+        }
+
+        if (date_switcher.value !== todaysDate && date_switcher.value !== "2022-07-23") {
+            increase_btn.classList.remove("invisible");
+            decrease_btn.classList.remove("invisible");
+        }
+        if (date_switcher.value === todaysDate()) {
+            increase_btn.classList.add("invisible");
+        }
+        if (date_switcher.value === "2022-07-23") {
+            decrease_btn.classList.add("invisible");
+        }
     });
 
     function date_indicator(a, b) {
@@ -62,6 +94,9 @@
         let months = Math.round((b - a) / month__);
         let years = Math.round((b - a) / year__);
 
+        if (days < 0) {
+            return "This app can't predict the future";
+        }
         if (days === 0) {
             return "Today";
         }
@@ -93,9 +128,9 @@
         >{date_indicator(new Date($DateStore), new Date(todaysDate()))}</code
     >
     <div class="flex">
-        <button on:click={decreaseDate}>
+        <button id="decreaseDate" on:click={decreaseDate}>
             <div
-                class="bg-dark0 rounded-full rounded-r-none translate-x-7 border-4 border-fg w-[70px] h-12 text-3xl flex items-center justify-start px-3 focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
+                class="bg-dark0 rounded-full rounded-r-none translate-x-7 border-4 border-fg w-[70px] h-12 text-3xl flex items-center justify-start px-3 focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110 transition-shadow-color"
             >
                 <div class="w-min">&larr;</div>
             </div>
@@ -105,13 +140,15 @@
             type="date"
             name="dateSwitcher"
             id="dateSwitcher"
+            min="2022-07-23"
+            max={todaysDate()}
             class="z-50 cursor-pointer 3 bg-dark0 border-4 border-fg text-fg py-4 px-8 rounded-full font-mono focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
             bind:value={$DateStore}
         />
 
-        <button on:click={increaseDate}>
+        <button id="increaseDate" on:click={increaseDate}>
             <div
-                class="bg-dark0 rounded-full rounded-l-none -translate-x-7 border-4 border-fg w-[70px] h-12 text-3xl flex items-center justify-end px-3 focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
+                class="bg-dark0 rounded-full rounded-l-none -translate-x-7 border-4 border-fg w-[70px] h-12 text-3xl flex items-center justify-end px-3 focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110 transition-shadow-color"
             >
                 <div class="w-min">&rarr;</div>
             </div>

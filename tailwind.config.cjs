@@ -10,6 +10,10 @@ module.exports = {
                 dark0: "#0f0f19",
                 accent1: "#0085ff",
                 accent1hover: "#6cb7fc"
+            },
+            transitionProperty: {
+                "shadow-color":
+                    "box-shadow, color, background-color, border-color, text-decoration-color, fill, stroke"
             }
         }
     },
