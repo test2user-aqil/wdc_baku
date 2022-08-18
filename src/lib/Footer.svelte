@@ -6,7 +6,7 @@
 >
     <div class="flex w-full justify-around items-center sm:mx-8 mx-4 text-fg relative">
         <!-- VERSION TEXT -->
-        <code class="text-sm text-slate-500 min-w-fit sm:flex hidden justify-center">v0.1.1</code>
+        <code class="text-sm text-slate-500 min-w-fit sm:flex hidden justify-center">v0.1.2</code>
 
         <!-- COPYRIGHT TEXT -->
         <div class="flex justify-around w-full min-w-fit">
