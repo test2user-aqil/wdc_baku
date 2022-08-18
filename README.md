@@ -1,4 +1,9 @@
-# [weatherdatacollector_baku](https://test2user-aqil.github.io/weatherdatacollector_baku/) `0.1.2`
+# [weatherdatacollector_baku](https://test2user-aqil.github.io/weatherdatacollector_baku/)
+
+![GitHub release](https://img.shields.io/github/v/release/test2user-aqil/weatherdatacollector_baku)
+![GitHub contributors](https://img.shields.io/github/contributors/test2user-aqil/weatherdatacollector_baku)
+![node-current](https://img.shields.io/node/v/latest)
+<!--[![GitHub stars](https://img.shields.io/github/stars/test2user-aqil/weatherdatacollector_baku)](https://github.com/test2user-aqil/weatherdatacollector_baku)-->
 
 ## Short description
 
