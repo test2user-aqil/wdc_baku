@@ -3,8 +3,15 @@
     "version": "0.1.2",
     "type": "module",
     "repository": {
-        "url": "https://test2user-aqil.github.io/weatherdatacollector_baku/"
+        "url": "https://github.com/test2user-aqil/weatherdatacollector_baku/"
     },
+    "license": "MIT",
+    "author": {
+        "name": "Aqil",
+        "email": "testuser-aqil@protonmail.com",
+        "url": "https://test2user-aqil.github.io/"
+    },
+    "homepage": "https://test2user-aqil.github.io/weatherdatacollector_baku/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",

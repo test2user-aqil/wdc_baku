@@ -142,7 +142,8 @@
             id="dateSwitcher"
             min="2022-07-23"
             max={todaysDate()}
-            class="z-50 cursor-pointer 3 bg-dark0 border-4 border-fg text-fg py-4 px-8 rounded-full font-mono focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
+            required
+            class="z-50 cursor-pointer 3 bg-dark0 border-4 border-fg text-fg py-4 sm:px-10 px-6 rounded-full font-mono w-min focus:outline-none outline-none shadow-xl shadow-accent1/10 hover:shadow-accent1/20 hover:text-accent1hover hover:border-accent1hover duration-300 hover:brightness-110"
             bind:value={$DateStore}
         />
 
