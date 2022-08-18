@@ -52,9 +52,46 @@
         }
         updates++;
     });
+
+    function date_indicator(a, b) {
+        const day__ = 1000 * 60 * 60 * 24;
+        const month__ = day__ * 30;
+        const year__ = day__ * 365;
+
+        let days = Math.round((b - a) / day__);
+        let months = Math.round((b - a) / month__);
+        let years = Math.round((b - a) / year__);
+
+        if (days === 0) {
+            return "Today";
+        }
+        if (days === 1) {
+            return "Yesterday";
+        }
+        if (days < 30) {
+            return days + " days ago";
+        }
+        if (days > 35 && days % 30 > 5 && months < 12) {
+            return months + " months, " + (days % 30) + " days ago";
+        }
+        if (days >= 30 && months < 12) {
+            return months + " months ago";
+        }
+        if (months >= 12 && months % 12 > 1) {
+            return years + " years, " + (months % 12) + " months ago";
+        }
+        if (months >= 12) {
+            return years + " years ago";
+        } else {
+            return days;
+        }
+    }
 </script>
 
 <div class="flex flex-col items-center">
+    <code class="text-xs opacity-70 pb-1 text-center"
+        >{date_indicator(new Date($DateStore), new Date(todaysDate()))}</code
+    >
     <div class="flex">
         <button on:click={decreaseDate}>
             <div
