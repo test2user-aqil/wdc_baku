@@ -1,4 +1,4 @@
-# [weatherdatacollector_baku](https://test2user-aqil.github.io/weatherdatacollector_baku/)
+# [weatherdatacollector_baku](https://test2user-aqil.github.io/weatherdatacollector_baku/) `0.1.1`
 
 ## Short description
 
