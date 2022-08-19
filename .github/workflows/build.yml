@@ -37,6 +37,6 @@ jobs:
               with:
                   source-directory: "dist"
                   destination-github-username: "test2user-aqil"
-                  destination-repository-name: "weatherdatacollector_baku"
+                  destination-repository-name: "wdc_baku"
                   user-email: testuser-aqil@protonmail.com
                   target-branch: gh-pages

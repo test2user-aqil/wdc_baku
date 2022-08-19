@@ -25,7 +25,7 @@
 
         <!-- GITHUB LINK -->
         <a
-            href="https://github.com/test2user-aqil/weatherdatacollector_baku"
+            href="https://github.com/test2user-aqil/wdc_baku"
             target="_blank"
             class="opacity-90 font-mono tracking-tight text-sm text-accent1hover hover:brightness-125 duration-300 min-w-fit sm:flex hidden"
             >View on Github</a
