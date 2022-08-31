@@ -1933,5 +1933,10 @@
         "date_time": "01-09-2022 00:09:48",
         "temperature": 24.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "01-09-2022 02:09:04",
+        "temperature": 22.03,
+        "description": "clear sky"
     }
 ]
