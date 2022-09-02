@@ -2018,5 +2018,10 @@
         "date_time": "02-09-2022 12:11:23",
         "temperature": 34.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "02-09-2022 14:10:26",
+        "temperature": 37.03,
+        "description": "clear sky"
     }
 ]
