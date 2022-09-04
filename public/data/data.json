@@ -2118,5 +2118,10 @@
         "date_time": "04-09-2022 04:50:29",
         "temperature": 21.03,
         "description": "mist"
+    },
+    {
+        "date_time": "04-09-2022 08:02:50",
+        "temperature": 26.03,
+        "description": "clear sky"
     }
 ]
