@@ -2248,5 +2248,10 @@
         "date_time": "06-09-2022 14:10:00",
         "temperature": 20.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "06-09-2022 16:18:58",
+        "temperature": 19.03,
+        "description": "light rain"
     }
 ]
