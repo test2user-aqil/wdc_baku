@@ -2338,5 +2338,10 @@
         "date_time": "08-09-2022 04:53:24",
         "temperature": 20.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "08-09-2022 08:00:25",
+        "temperature": 20.03,
+        "description": "broken clouds"
     }
 ]
