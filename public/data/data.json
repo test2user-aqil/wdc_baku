@@ -2393,5 +2393,10 @@
         "date_time": "09-09-2022 02:09:34",
         "temperature": 20.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "09-09-2022 04:55:58",
+        "temperature": 19.03,
+        "description": "clear sky"
     }
 ]
