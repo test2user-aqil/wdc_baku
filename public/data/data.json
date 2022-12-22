@@ -2443,5 +2443,10 @@
         "date_time": "22-12-2022 10:16:57",
         "temperature": 9.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "22-12-2022 12:16:27",
+        "temperature": 10.03,
+        "description": "light rain"
     }
 ]
