@@ -2428,5 +2428,10 @@
         "date_time": "22-12-2022 05:48:47",
         "temperature": 7.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "22-12-2022 06:34:17",
+        "temperature": 7.03,
+        "description": "overcast clouds"
     }
 ]
