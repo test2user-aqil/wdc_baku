@@ -1,13 +1,13 @@
 name: Build Project
 
 on:
-    push:
-        branches: [master]
+#   push:
+#   branches: [master]
 
-    workflow_run:
-        workflows: ["Run Python Script"]
-        types:
-            - completed
+#   workflow_run:
+#       workflows: ["Run Python Script"]
+#       types:
+#           - completed
 
     workflow_dispatch:
 
