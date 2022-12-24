@@ -2578,5 +2578,10 @@
         "date_time": "24-12-2022 16:22:15",
         "temperature": 10.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "24-12-2022 18:10:34",
+        "temperature": 9.03,
+        "description": "clear sky"
     }
 ]
