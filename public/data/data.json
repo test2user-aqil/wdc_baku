@@ -2568,5 +2568,10 @@
         "date_time": "24-12-2022 12:15:38",
         "temperature": 10.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "24-12-2022 14:12:22",
+        "temperature": 10.03,
+        "description": "scattered clouds"
     }
 ]
