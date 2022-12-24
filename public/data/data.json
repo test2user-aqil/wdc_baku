@@ -2598,5 +2598,10 @@
         "date_time": "25-12-2022 00:12:33",
         "temperature": 7.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "25-12-2022 02:11:22",
+        "temperature": 8.03,
+        "description": "clear sky"
     }
 ]
