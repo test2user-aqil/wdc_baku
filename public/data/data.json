@@ -2653,5 +2653,10 @@
         "date_time": "25-12-2022 22:14:30",
         "temperature": 7.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "26-12-2022 00:12:24",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
