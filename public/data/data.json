@@ -2783,5 +2783,10 @@
         "date_time": "28-12-2022 02:11:59",
         "temperature": 5.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "28-12-2022 05:03:00",
+        "temperature": 4.03,
+        "description": "clear sky"
     }
 ]
