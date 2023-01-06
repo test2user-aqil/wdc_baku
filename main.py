@@ -20,7 +20,7 @@ logging.Formatter.converter = customTime
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
-logger_file_handler = logging.FileHandler("../public/data/data.log", encoding="utf8")
+logger_file_handler = logging.FileHandler("./data/data.log", encoding="utf8")
 formatter = logging.Formatter(
     "%(asctime)s - %(levelname)s - %(message)s", datefmt="%d-%m-%Y %H:%M:%S"
 )
@@ -44,7 +44,7 @@ if __name__ == "__main__":
         description = data["weather"][0]["description"]
         logger.info(f"Weather in Baku: {temperature}°C - {description}")
 
-        with open("../public/data/data.csv", mode="a") as csv_file:
+        with open("./data/data.csv", mode="a") as csv_file:
             fieldnames = ["date_time", "temperature", "description"]
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
                 }
             )
 
-        with open("../public/data/data.json", "r") as f:
+        with open("./data/data.json", "r") as f:
             json_data = json.load(f)
 
         json_data.append(
@@ -67,5 +67,5 @@ if __name__ == "__main__":
             }
         )
 
-        with open("../public/data/data.json", "w") as f:
+        with open("./data/data.json", "w") as f:
             json.dump(json_data, f, indent=4, separators=(",", ": "))
