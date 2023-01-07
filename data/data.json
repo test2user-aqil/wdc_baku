@@ -3433,5 +3433,10 @@
         "date_time": "07-01-2023 20:16:25",
         "temperature": 6.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "07-01-2023 22:14:43",
+        "temperature": 5.03,
+        "description": "overcast clouds"
     }
 ]
