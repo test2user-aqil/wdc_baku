@@ -3488,5 +3488,10 @@
         "date_time": "08-01-2023 18:10:50",
         "temperature": 1.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "08-01-2023 20:16:27",
+        "temperature": 1.03,
+        "description": "broken clouds"
     }
 ]
