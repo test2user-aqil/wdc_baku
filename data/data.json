@@ -3523,5 +3523,10 @@
         "date_time": "09-01-2023 08:16:24",
         "temperature": 1.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "09-01-2023 10:17:07",
+        "temperature": 1.03,
+        "description": "light snow"
     }
 ]
