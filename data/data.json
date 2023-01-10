@@ -3613,5 +3613,10 @@
         "date_time": "10-01-2023 20:20:38",
         "temperature": 0.03,
         "description": "light shower snow"
+    },
+    {
+        "date_time": "10-01-2023 22:16:29",
+        "temperature": 0.03,
+        "description": "light snow"
     }
 ]
