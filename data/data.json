@@ -3643,5 +3643,10 @@
         "date_time": "11-01-2023 08:16:17",
         "temperature": -0.97,
         "description": "light snow"
+    },
+    {
+        "date_time": "11-01-2023 10:16:38",
+        "temperature": 1.03,
+        "description": "scattered clouds"
     }
 ]
