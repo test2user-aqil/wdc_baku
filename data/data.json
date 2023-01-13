@@ -3753,5 +3753,10 @@
         "date_time": "13-01-2023 05:08:06",
         "temperature": 3.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "13-01-2023 06:43:52",
+        "temperature": 2.03,
+        "description": "broken clouds"
     }
 ]
