@@ -3893,5 +3893,10 @@
         "date_time": "15-01-2023 12:15:47",
         "temperature": 5.03,
         "description": "light intensity drizzle"
+    },
+    {
+        "date_time": "15-01-2023 14:12:43",
+        "temperature": 5.03,
+        "description": "overcast clouds"
     }
 ]
