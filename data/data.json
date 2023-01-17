@@ -4003,5 +4003,10 @@
         "date_time": "17-01-2023 08:16:02",
         "temperature": 8.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "17-01-2023 10:16:22",
+        "temperature": 8.03,
+        "description": "overcast clouds"
     }
 ]
