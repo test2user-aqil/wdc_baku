@@ -4058,5 +4058,10 @@
         "date_time": "18-01-2023 06:42:05",
         "temperature": 4.03,
         "description": "fog"
+    },
+    {
+        "date_time": "18-01-2023 08:16:23",
+        "temperature": 1.03,
+        "description": "fog"
     }
 ]
