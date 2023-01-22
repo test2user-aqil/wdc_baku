@@ -4293,5 +4293,10 @@
         "date_time": "22-01-2023 05:09:45",
         "temperature": 4.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "22-01-2023 06:42:06",
+        "temperature": 2.03,
+        "description": "broken clouds"
     }
 ]
