@@ -4538,5 +4538,10 @@
         "date_time": "26-01-2023 06:38:13",
         "temperature": -2.0,
         "description": "clear sky"
+    },
+    {
+        "date_time": "26-01-2023 08:15:48",
+        "temperature": -3.0,
+        "description": "fog"
     }
 ]
