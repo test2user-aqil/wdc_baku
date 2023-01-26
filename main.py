@@ -34,13 +34,16 @@ if __name__ == "__main__":
     except KeyError:
         raise
 
-    url = "https://api.openweathermap.org/data/2.5/weather?q=baku&units=metric&appid=" + API_KEY
+    url = (
+        "https://api.openweathermap.org/data/2.5/weather?q=baku&units=metric&appid="
+        + API_KEY
+    )
 
     r = requests.get(url)
 
     if r.status_code == 200:
         data = r.json()
-        temperature = data["main"]["temp"]
+        temperature = data["main"]["temp"] - 0.03
         description = data["weather"][0]["description"]
         logger.info(f"Weather in Baku: {temperature}°C - {description}")
 
