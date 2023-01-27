@@ -43,7 +43,7 @@ if __name__ == "__main__":
 
     if r.status_code == 200:
         data = r.json()
-        temperature = data["main"]["temp"] - 0.03
+        temperature = data["main"]["temp"]
         description = data["weather"][0]["description"]
         logger.info(f"Weather in Baku: {temperature}°C - {description}")
 
