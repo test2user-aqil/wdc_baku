@@ -4618,5 +4618,10 @@
         "date_time": "27-01-2023 14:14:01",
         "temperature": 7.999999999999999,
         "description": "light rain"
+    },
+    {
+        "date_time": "27-01-2023 16:24:30",
+        "temperature": 7.999999999999999,
+        "description": "clear sky"
     }
 ]
