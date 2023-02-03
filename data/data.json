@@ -5038,5 +5038,10 @@
         "date_time": "03-02-2023 14:14:03",
         "temperature": 5.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "03-02-2023 16:25:12",
+        "temperature": 6.03,
+        "description": "broken clouds"
     }
 ]
