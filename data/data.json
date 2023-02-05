@@ -5133,5 +5133,10 @@
         "date_time": "05-02-2023 05:12:09",
         "temperature": 6.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "05-02-2023 06:47:25",
+        "temperature": 5.03,
+        "description": "few clouds"
     }
 ]
