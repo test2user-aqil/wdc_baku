@@ -1,6 +1,6 @@
 # wdc_baku
 
-A project that collects the current weather condition of Baku and stores it in a log file. The weather data is collected from a trusted weather API and stored in both JSON and CSV formats, as well as a log file. The script is set to run every 2 hours using GitHub Actions.
+A project that collects the current weather condition of Baku and stores it in a log file. The weather data is collected from a trusted weather API and stored in both JSON and CSV formats, as well as a log file. The script is set to run every hour using GitHub Actions.
 
 ## Usage
 
@@ -45,4 +45,4 @@ The weather API used in this project provides limited free requests per day. If 
 
 ## Scheduling
 
-The script is set to run every 2 hours using GitHub Actions. You can adjust the schedule by modifying the workflow file in the `.github/workflows` directory.
+The script is set to run every hour using GitHub Actions. You can adjust the schedule by modifying the workflow file in the `.github/workflows` directory.
