@@ -22,17 +22,9 @@ cd wdc_baku
 pip install -r requirements.txt
 ```
 
-4. Set the API key as an environment variable
+4. Set the API key as an environment variable in GitHub Actions
 
-```bash
-export API_KEY=<your_api_key>
-```
-
-5. Run the script
-
-```bash
-python3 wdc_baku.py
-```
+5. Push the code to your GitHub repository
 
 ## Data
 
@@ -50,3 +42,7 @@ The weather data collected includes the following information:
 ## Note
 
 The weather API used in this project provides limited free requests per day. If you plan on using the script frequently, it is recommended to sign up for a paid plan to ensure a steady supply of weather data.
+
+## Scheduling
+
+The script is set to run every 2 hours using GitHub Actions. You can adjust the schedule by modifying the workflow file in the `.github/workflows` directory.
