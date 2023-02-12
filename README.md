@@ -31,7 +31,7 @@ export API_KEY=<your_api_key>
 5. Run the script
 
 ```bash
-python3 main.py
+python3 wdc_baku.py
 ```
 
 ## Data
