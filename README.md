@@ -1,6 +1,6 @@
 # wdc_baku
 
-A project that collects the current weather condition of Baku and stores it in a log file. The weather data is collected from a trusted weather API and stored in both JSON and CSV formats, as well as a log file.
+A project that collects the current weather condition of Baku and stores it in a log file. The weather data is collected from a trusted weather API and stored in both JSON and CSV formats, as well as a log file. The script is set to run every 2 hours using GitHub Actions.
 
 ## Usage
 
