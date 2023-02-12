@@ -46,3 +46,7 @@ The weather API used in this project provides limited free requests per day. If 
 ## Scheduling
 
 The script is set to run every hour using GitHub Actions. You can adjust the schedule by modifying the workflow file in the `.github/workflows` directory.
+
+## Contributing
+
+If you would like to contribute to the development of wdc_baku, feel free to submit a pull request or open an issue on the repository
