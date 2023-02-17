@@ -6123,5 +6123,10 @@
         "date_time": "17-02-2023 08:23:59",
         "temperature": 1.03,
         "description": "mist"
+    },
+    {
+        "date_time": "17-02-2023 09:18:03",
+        "temperature": 1.03,
+        "description": "light snow"
     }
 ]
