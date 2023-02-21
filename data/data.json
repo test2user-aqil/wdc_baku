@@ -6598,5 +6598,10 @@
         "date_time": "21-02-2023 11:17:36",
         "temperature": 6.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "21-02-2023 12:24:50",
+        "temperature": 6.03,
+        "description": "broken clouds"
     }
 ]
