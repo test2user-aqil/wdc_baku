@@ -6893,5 +6893,10 @@
         "date_time": "24-02-2023 00:20:58",
         "temperature": 4.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "24-02-2023 01:17:38",
+        "temperature": 3.03,
+        "description": "light rain"
     }
 ]
