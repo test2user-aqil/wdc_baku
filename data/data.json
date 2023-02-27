@@ -7348,5 +7348,10 @@
         "date_time": "27-02-2023 23:15:44",
         "temperature": 5.03,
         "description": "fog"
+    },
+    {
+        "date_time": "28-02-2023 00:21:17",
+        "temperature": 6.03,
+        "description": "fog"
     }
 ]
