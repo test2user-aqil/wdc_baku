@@ -7408,5 +7408,10 @@
         "date_time": "28-02-2023 12:26:09",
         "temperature": 7.03,
         "description": "mist"
+    },
+    {
+        "date_time": "28-02-2023 13:20:23",
+        "temperature": 10.03,
+        "description": "few clouds"
     }
 ]
