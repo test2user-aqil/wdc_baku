@@ -8208,5 +8208,10 @@
         "date_time": "07-03-2023 17:29:02",
         "temperature": 7.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "07-03-2023 18:18:43",
+        "temperature": 6.03,
+        "description": "clear sky"
     }
 ]
