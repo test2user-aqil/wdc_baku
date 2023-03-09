@@ -8408,5 +8408,10 @@
         "date_time": "09-03-2023 11:18:05",
         "temperature": 10.03,
         "description": "moderate rain"
+    },
+    {
+        "date_time": "09-03-2023 12:25:47",
+        "temperature": 10.03,
+        "description": "light intensity shower rain"
     }
 ]
