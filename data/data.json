@@ -8523,5 +8523,10 @@
         "date_time": "10-03-2023 11:17:56",
         "temperature": 7.03,
         "description": "mist"
+    },
+    {
+        "date_time": "10-03-2023 12:25:43",
+        "temperature": 9.03,
+        "description": "scattered clouds"
     }
 ]
