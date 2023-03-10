@@ -8518,5 +8518,10 @@
         "date_time": "10-03-2023 10:25:48",
         "temperature": 6.03,
         "description": "fog"
+    },
+    {
+        "date_time": "10-03-2023 11:17:56",
+        "temperature": 7.03,
+        "description": "mist"
     }
 ]
