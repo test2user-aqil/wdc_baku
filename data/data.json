@@ -9203,5 +9203,10 @@
         "date_time": "16-03-2023 09:17:43",
         "temperature": 9.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "16-03-2023 10:24:04",
+        "temperature": 10.03,
+        "description": "broken clouds"
     }
 ]
