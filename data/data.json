@@ -9743,5 +9743,10 @@
         "date_time": "21-03-2023 01:16:22",
         "temperature": 10.03,
         "description": "fog"
+    },
+    {
+        "date_time": "21-03-2023 02:16:40",
+        "temperature": 9.03,
+        "description": "fog"
     }
 ]
