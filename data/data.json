@@ -9758,5 +9758,10 @@
         "date_time": "21-03-2023 05:24:56",
         "temperature": 8.03,
         "description": "fog"
+    },
+    {
+        "date_time": "21-03-2023 06:32:20",
+        "temperature": 8.03,
+        "description": "broken clouds"
     }
 ]
