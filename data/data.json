@@ -11018,5 +11018,10 @@
         "date_time": "01-04-2023 07:17:44",
         "temperature": 4.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "01-04-2023 08:20:28",
+        "temperature": 5.03,
+        "description": "light intensity shower rain"
     }
 ]
