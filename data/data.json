@@ -11353,5 +11353,10 @@
         "date_time": "04-04-2023 05:33:28",
         "temperature": 7.03,
         "description": "fog"
+    },
+    {
+        "date_time": "04-04-2023 06:33:34",
+        "temperature": 6.03,
+        "description": "fog"
     }
 ]
