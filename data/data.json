@@ -11568,5 +11568,10 @@
         "date_time": "06-04-2023 01:16:24",
         "temperature": 11.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "06-04-2023 02:15:27",
+        "temperature": 11.03,
+        "description": "few clouds"
     }
 ]
