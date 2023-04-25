@@ -13773,5 +13773,10 @@
         "date_time": "25-04-2023 06:34:12",
         "temperature": 16.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "25-04-2023 07:18:22",
+        "temperature": 16.03,
+        "description": "scattered clouds"
     }
 ]
