@@ -14203,5 +14203,10 @@
         "date_time": "28-04-2023 23:13:44",
         "temperature": 14.03,
         "description": "mist"
+    },
+    {
+        "date_time": "29-04-2023 00:17:33",
+        "temperature": 12.03,
+        "description": "fog"
     }
 ]
