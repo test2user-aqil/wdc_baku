@@ -14118,5 +14118,10 @@
         "date_time": "28-04-2023 06:34:36",
         "temperature": 16.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "28-04-2023 07:18:15",
+        "temperature": 16.03,
+        "description": "mist"
     }
 ]
