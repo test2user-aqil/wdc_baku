@@ -14398,5 +14398,10 @@
         "date_time": "30-04-2023 16:30:49",
         "temperature": 24.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "30-04-2023 17:18:21",
+        "temperature": 22.03,
+        "description": "scattered clouds"
     }
 ]
