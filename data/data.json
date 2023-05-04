@@ -14868,5 +14868,10 @@
         "date_time": "04-05-2023 18:16:10",
         "temperature": 14.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "04-05-2023 19:18:12",
+        "temperature": 14.03,
+        "description": "scattered clouds"
     }
 ]
