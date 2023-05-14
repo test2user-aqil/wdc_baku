@@ -15968,5 +15968,10 @@
         "date_time": "14-05-2023 14:16:28",
         "temperature": 15.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "14-05-2023 15:12:45",
+        "temperature": 15.03,
+        "description": "scattered clouds"
     }
 ]
