@@ -16058,5 +16058,10 @@
         "date_time": "15-05-2023 09:16:10",
         "temperature": 14.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "15-05-2023 10:22:07",
+        "temperature": 13.03,
+        "description": "light rain"
     }
 ]
