@@ -17328,5 +17328,10 @@
         "date_time": "26-05-2023 12:20:47",
         "temperature": 22.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "26-05-2023 13:16:22",
+        "temperature": 22.03,
+        "description": "scattered clouds"
     }
 ]
