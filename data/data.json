@@ -19533,5 +19533,10 @@
         "date_time": "14-06-2023 21:14:53",
         "temperature": 25.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "14-06-2023 22:20:44",
+        "temperature": 25.03,
+        "description": "scattered clouds"
     }
 ]
