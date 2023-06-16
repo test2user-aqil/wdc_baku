@@ -19698,5 +19698,10 @@
         "date_time": "16-06-2023 08:20:01",
         "temperature": 25.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "16-06-2023 09:15:39",
+        "temperature": 26.03,
+        "description": "scattered clouds"
     }
 ]
