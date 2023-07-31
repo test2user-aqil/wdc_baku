@@ -24768,5 +24768,10 @@
         "date_time": "31-07-2023 07:17:01",
         "temperature": 24.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "31-07-2023 08:19:39",
+        "temperature": 25.03,
+        "description": "light rain"
     }
 ]
