@@ -27518,5 +27518,10 @@
         "date_time": "24-08-2023 06:20:41",
         "temperature": 26.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "24-08-2023 07:16:14",
+        "temperature": 26.03,
+        "description": "fog"
     }
 ]
