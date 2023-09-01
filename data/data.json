@@ -28488,5 +28488,10 @@
         "date_time": "01-09-2023 16:31:55",
         "temperature": 29.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "01-09-2023 17:19:35",
+        "temperature": 28.03,
+        "description": "clear sky"
     }
 ]
