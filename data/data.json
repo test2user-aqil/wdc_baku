@@ -29238,5 +29238,10 @@
         "date_time": "08-09-2023 06:22:00",
         "temperature": 24.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "08-09-2023 07:16:22",
+        "temperature": 23.03,
+        "description": "light intensity shower rain"
     }
 ]
