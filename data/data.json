@@ -29348,5 +29348,10 @@
         "date_time": "09-09-2023 05:09:27",
         "temperature": 19.03,
         "description": "thunderstorm with light rain"
+    },
+    {
+        "date_time": "09-09-2023 06:19:03",
+        "temperature": 20.03,
+        "description": "scattered clouds"
     }
 ]
