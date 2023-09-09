@@ -29443,5 +29443,10 @@
         "date_time": "10-09-2023 00:15:27",
         "temperature": 22.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "10-09-2023 01:13:09",
+        "temperature": 21.03,
+        "description": "light intensity shower rain"
     }
 ]
