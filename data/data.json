@@ -29928,5 +29928,10 @@
         "date_time": "14-09-2023 06:21:37",
         "temperature": 20.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "14-09-2023 07:16:32",
+        "temperature": 20.03,
+        "description": "scattered clouds"
     }
 ]
