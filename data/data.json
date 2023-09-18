@@ -30448,5 +30448,10 @@
         "date_time": "18-09-2023 18:16:15",
         "temperature": 20.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "18-09-2023 19:17:54",
+        "temperature": 20.03,
+        "description": "scattered clouds"
     }
 ]
