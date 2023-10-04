@@ -32253,5 +32253,10 @@
         "date_time": "04-10-2023 11:15:35",
         "temperature": 21.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "04-10-2023 12:21:43",
+        "temperature": 22.03,
+        "description": "light rain"
     }
 ]
