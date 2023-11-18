@@ -37418,5 +37418,10 @@
         "date_time": "18-11-2023 14:16:42",
         "temperature": 17.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "18-11-2023 15:13:03",
+        "temperature": 16.03,
+        "description": "light intensity shower rain"
     }
 ]
