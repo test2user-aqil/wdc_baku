@@ -37653,5 +37653,10 @@
         "date_time": "20-11-2023 15:14:51",
         "temperature": 18.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "20-11-2023 16:34:49",
+        "temperature": 15.03,
+        "description": "broken clouds"
     }
 ]
