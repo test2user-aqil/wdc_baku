@@ -37828,5 +37828,10 @@
         "date_time": "22-11-2023 03:18:04",
         "temperature": 10.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "22-11-2023 05:19:17",
+        "temperature": 10.03,
+        "description": "light intensity shower rain"
     }
 ]
