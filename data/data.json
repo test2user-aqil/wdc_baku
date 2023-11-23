@@ -38013,5 +38013,10 @@
         "date_time": "23-11-2023 18:16:12",
         "temperature": 13.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "23-11-2023 19:17:40",
+        "temperature": 11.03,
+        "description": "light rain"
     }
 ]
