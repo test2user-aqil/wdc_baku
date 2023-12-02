@@ -38978,5 +38978,10 @@
         "date_time": "02-12-2023 03:17:11",
         "temperature": 13.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "02-12-2023 05:14:01",
+        "temperature": 13.03,
+        "description": "scattered clouds"
     }
 ]
