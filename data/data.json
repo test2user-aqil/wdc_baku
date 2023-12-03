@@ -39103,5 +39103,10 @@
         "date_time": "03-12-2023 06:29:12",
         "temperature": 5.03,
         "description": "fog"
+    },
+    {
+        "date_time": "03-12-2023 07:17:18",
+        "temperature": 6.03,
+        "description": "fog"
     }
 ]
