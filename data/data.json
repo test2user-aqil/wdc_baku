@@ -39308,5 +39308,10 @@
         "date_time": "05-12-2023 00:18:13",
         "temperature": 7.03,
         "description": "mist"
+    },
+    {
+        "date_time": "05-12-2023 01:14:24",
+        "temperature": 7.03,
+        "description": "mist"
     }
 ]
