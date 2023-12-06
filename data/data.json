@@ -39513,5 +39513,10 @@
         "date_time": "06-12-2023 19:18:47",
         "temperature": 11.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "06-12-2023 20:24:13",
+        "temperature": 11.03,
+        "description": "overcast clouds"
     }
 ]
