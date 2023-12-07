@@ -39573,5 +39573,10 @@
         "date_time": "07-12-2023 08:21:29",
         "temperature": 13.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "07-12-2023 09:16:47",
+        "temperature": 13.03,
+        "description": "light rain"
     }
 ]
