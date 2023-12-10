@@ -39903,5 +39903,10 @@
         "date_time": "10-12-2023 05:22:02",
         "temperature": 12.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "10-12-2023 06:30:48",
+        "temperature": 12.03,
+        "description": "scattered clouds"
     }
 ]
