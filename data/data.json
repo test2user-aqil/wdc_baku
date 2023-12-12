@@ -40223,5 +40223,10 @@
         "date_time": "12-12-2023 23:14:23",
         "temperature": 8.03,
         "description": "light intensity drizzle"
+    },
+    {
+        "date_time": "13-12-2023 00:18:26",
+        "temperature": 8.03,
+        "description": "mist"
     }
 ]
