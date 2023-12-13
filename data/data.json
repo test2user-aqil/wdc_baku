@@ -40343,5 +40343,10 @@
         "date_time": "14-12-2023 00:18:20",
         "temperature": 5.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "14-12-2023 01:15:13",
+        "temperature": 5.03,
+        "description": "light rain"
     }
 ]
