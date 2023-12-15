@@ -40473,5 +40473,10 @@
         "date_time": "15-12-2023 03:17:25",
         "temperature": 5.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "15-12-2023 05:18:10",
+        "temperature": 5.03,
+        "description": "overcast clouds"
     }
 ]
