@@ -40598,5 +40598,10 @@
         "date_time": "16-12-2023 06:26:59",
         "temperature": 6.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "16-12-2023 07:17:32",
+        "temperature": 6.03,
+        "description": "scattered clouds"
     }
 ]
