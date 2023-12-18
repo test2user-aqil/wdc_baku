@@ -40878,5 +40878,10 @@
         "date_time": "18-12-2023 16:34:19",
         "temperature": 7.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "18-12-2023 17:21:49",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
