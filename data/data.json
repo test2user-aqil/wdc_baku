@@ -41958,5 +41958,10 @@
         "date_time": "28-12-2023 01:15:09",
         "temperature": 12.12,
         "description": "few clouds"
+    },
+    {
+        "date_time": "28-12-2023 02:15:51",
+        "temperature": 12.35,
+        "description": "scattered clouds"
     }
 ]
