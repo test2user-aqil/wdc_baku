@@ -42048,5 +42048,10 @@
         "date_time": "28-12-2023 20:21:48",
         "temperature": 6.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "28-12-2023 21:14:48",
+        "temperature": 6.03,
+        "description": "scattered clouds"
     }
 ]
