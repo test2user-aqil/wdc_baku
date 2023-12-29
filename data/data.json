@@ -42098,5 +42098,10 @@
         "date_time": "29-12-2023 07:18:12",
         "temperature": 5.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "29-12-2023 08:20:24",
+        "temperature": 5.03,
+        "description": "broken clouds"
     }
 ]
