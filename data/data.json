@@ -42543,5 +42543,10 @@
         "date_time": "02-01-2024 03:17:23",
         "temperature": 5.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "02-01-2024 05:14:47",
+        "temperature": 5.03,
+        "description": "fog"
     }
 ]
