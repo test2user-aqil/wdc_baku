@@ -42838,5 +42838,10 @@
         "date_time": "04-01-2024 17:21:49",
         "temperature": 13.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "04-01-2024 18:15:50",
+        "temperature": 12.03,
+        "description": "clear sky"
     }
 ]
