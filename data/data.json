@@ -43108,5 +43108,10 @@
         "date_time": "07-01-2024 01:14:21",
         "temperature": 5.03,
         "description": "mist"
+    },
+    {
+        "date_time": "07-01-2024 02:15:27",
+        "temperature": 5.03,
+        "description": "mist"
     }
 ]
