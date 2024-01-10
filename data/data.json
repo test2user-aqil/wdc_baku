@@ -43503,5 +43503,10 @@
         "date_time": "10-01-2024 12:22:09",
         "temperature": 2.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "10-01-2024 13:17:28",
+        "temperature": 3.03,
+        "description": "overcast clouds"
     }
 ]
