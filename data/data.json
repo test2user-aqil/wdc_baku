@@ -43683,5 +43683,10 @@
         "date_time": "12-01-2024 01:15:21",
         "temperature": 7.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "12-01-2024 02:16:30",
+        "temperature": 7.03,
+        "description": "light rain"
     }
 ]
