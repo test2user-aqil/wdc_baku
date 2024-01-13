@@ -43878,5 +43878,10 @@
         "date_time": "13-01-2024 18:14:58",
         "temperature": 0.03,
         "description": "light shower snow"
+    },
+    {
+        "date_time": "13-01-2024 19:16:39",
+        "temperature": 0.03,
+        "description": "overcast clouds"
     }
 ]
