@@ -43918,5 +43918,10 @@
         "date_time": "14-01-2024 02:16:00",
         "temperature": 0.03,
         "description": "shower snow"
+    },
+    {
+        "date_time": "14-01-2024 03:18:10",
+        "temperature": 0.03,
+        "description": "shower snow"
     }
 ]
