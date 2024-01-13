@@ -43823,5 +43823,10 @@
         "date_time": "13-01-2024 07:17:52",
         "temperature": 6.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "13-01-2024 08:21:25",
+        "temperature": 6.03,
+        "description": "light intensity shower rain"
     }
 ]
