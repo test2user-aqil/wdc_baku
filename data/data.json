@@ -43998,5 +43998,10 @@
         "date_time": "14-01-2024 19:16:25",
         "temperature": 0.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "14-01-2024 20:21:23",
+        "temperature": 1.03,
+        "description": "scattered clouds"
     }
 ]
