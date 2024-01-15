@@ -44038,5 +44038,10 @@
         "date_time": "15-01-2024 03:18:04",
         "temperature": 2.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "15-01-2024 05:20:34",
+        "temperature": 1.03,
+        "description": "light snow"
     }
 ]
