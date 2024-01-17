@@ -44338,5 +44338,10 @@
         "date_time": "17-01-2024 18:16:50",
         "temperature": 7.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "17-01-2024 19:18:12",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
