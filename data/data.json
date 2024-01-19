@@ -44558,5 +44558,10 @@
         "date_time": "19-01-2024 16:33:32",
         "temperature": 9.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "19-01-2024 17:20:54",
+        "temperature": 8.03,
+        "description": "scattered clouds"
     }
 ]
