@@ -44633,5 +44633,10 @@
         "date_time": "20-01-2024 08:21:07",
         "temperature": 6.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "20-01-2024 09:16:05",
+        "temperature": 8.56,
+        "description": "overcast clouds"
     }
 ]
