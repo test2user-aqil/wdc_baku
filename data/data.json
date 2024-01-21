@@ -44738,5 +44738,10 @@
         "date_time": "21-01-2024 06:34:26",
         "temperature": 5.03,
         "description": "fog"
+    },
+    {
+        "date_time": "21-01-2024 07:18:07",
+        "temperature": 5.03,
+        "description": "fog"
     }
 ]
