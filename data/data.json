@@ -44938,5 +44938,10 @@
         "date_time": "22-01-2024 23:14:26",
         "temperature": 3.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "23-01-2024 00:18:42",
+        "temperature": 4.03,
+        "description": "light intensity shower rain"
     }
 ]
