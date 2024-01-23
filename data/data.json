@@ -45018,5 +45018,10 @@
         "date_time": "23-01-2024 16:34:18",
         "temperature": 3.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "23-01-2024 17:21:22",
+        "temperature": 3.03,
+        "description": "light snow"
     }
 ]
