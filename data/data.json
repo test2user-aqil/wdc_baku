@@ -45633,5 +45633,10 @@
         "date_time": "29-01-2024 00:15:40",
         "temperature": 4.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "29-01-2024 01:15:59",
+        "temperature": 5.03,
+        "description": "scattered clouds"
     }
 ]
