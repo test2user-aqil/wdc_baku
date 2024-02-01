@@ -46078,5 +46078,10 @@
         "date_time": "01-02-2024 21:17:16",
         "temperature": 5.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "01-02-2024 22:20:11",
+        "temperature": 5.03,
+        "description": "clear sky"
     }
 ]
