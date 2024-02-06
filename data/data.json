@@ -46603,5 +46603,10 @@
         "date_time": "06-02-2024 11:15:11",
         "temperature": 7.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "06-02-2024 12:20:51",
+        "temperature": 7.03,
+        "description": "scattered clouds"
     }
 ]
