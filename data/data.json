@@ -47383,5 +47383,10 @@
         "date_time": "13-02-2024 06:21:33",
         "temperature": 8.03,
         "description": "fog"
+    },
+    {
+        "date_time": "13-02-2024 07:18:14",
+        "temperature": 7.03,
+        "description": "fog"
     }
 ]
