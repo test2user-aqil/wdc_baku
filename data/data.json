@@ -47523,5 +47523,10 @@
         "date_time": "14-02-2024 11:16:36",
         "temperature": 6.03,
         "description": "mist"
+    },
+    {
+        "date_time": "14-02-2024 12:20:45",
+        "temperature": 7.03,
+        "description": "overcast clouds"
     }
 ]
