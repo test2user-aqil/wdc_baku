@@ -47618,5 +47618,10 @@
         "date_time": "15-02-2024 07:19:14",
         "temperature": 7.03,
         "description": "mist"
+    },
+    {
+        "date_time": "15-02-2024 08:20:18",
+        "temperature": 7.03,
+        "description": "mist"
     }
 ]
