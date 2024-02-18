@@ -48008,5 +48008,10 @@
         "date_time": "18-02-2024 16:28:23",
         "temperature": 3.03,
         "description": "haze"
+    },
+    {
+        "date_time": "18-02-2024 17:17:53",
+        "temperature": 2.03,
+        "description": "haze"
     }
 ]
