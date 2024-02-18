@@ -47973,5 +47973,10 @@
         "date_time": "18-02-2024 09:14:47",
         "temperature": 2.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "18-02-2024 10:20:29",
+        "temperature": 3.03,
+        "description": "broken clouds"
     }
 ]
