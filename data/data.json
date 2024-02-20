@@ -48243,5 +48243,10 @@
         "date_time": "20-02-2024 17:19:34",
         "temperature": 6.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "20-02-2024 18:15:15",
+        "temperature": 6.03,
+        "description": "overcast clouds"
     }
 ]
