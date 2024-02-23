@@ -48548,5 +48548,10 @@
         "date_time": "23-02-2024 09:16:43",
         "temperature": 5.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "23-02-2024 10:21:47",
+        "temperature": 5.03,
+        "description": "light rain"
     }
 ]
