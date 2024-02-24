@@ -48698,5 +48698,10 @@
         "date_time": "24-02-2024 16:27:44",
         "temperature": 6.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "24-02-2024 17:17:22",
+        "temperature": 5.03,
+        "description": "few clouds"
     }
 ]
