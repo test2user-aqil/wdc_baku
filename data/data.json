@@ -48973,5 +48973,10 @@
         "date_time": "27-02-2024 01:16:05",
         "temperature": -1.97,
         "description": "few clouds"
+    },
+    {
+        "date_time": "27-02-2024 02:16:46",
+        "temperature": 2.5,
+        "description": "few clouds"
     }
 ]
