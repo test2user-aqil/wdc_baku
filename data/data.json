@@ -49163,5 +49163,10 @@
         "date_time": "28-02-2024 17:17:27",
         "temperature": 5.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "28-02-2024 18:14:53",
+        "temperature": 5.03,
+        "description": "scattered clouds"
     }
 ]
