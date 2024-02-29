@@ -49303,5 +49303,10 @@
         "date_time": "29-02-2024 22:21:42",
         "temperature": 0.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "29-02-2024 23:12:30",
+        "temperature": 0.03,
+        "description": "clear sky"
     }
 ]
