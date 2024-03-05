@@ -49878,5 +49878,10 @@
         "date_time": "06-03-2024 02:16:21",
         "temperature": 4.03,
         "description": "mist"
+    },
+    {
+        "date_time": "06-03-2024 03:15:53",
+        "temperature": 5.03,
+        "description": "few clouds"
     }
 ]
