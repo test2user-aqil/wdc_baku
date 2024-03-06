@@ -49888,5 +49888,10 @@
         "date_time": "06-03-2024 05:11:53",
         "temperature": 7.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "06-03-2024 06:20:57",
+        "temperature": 8.03,
+        "description": "broken clouds"
     }
 ]
