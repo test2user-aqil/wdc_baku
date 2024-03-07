@@ -50088,5 +50088,10 @@
         "date_time": "07-03-2024 21:17:37",
         "temperature": 7.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "07-03-2024 22:20:46",
+        "temperature": 7.03,
+        "description": "light intensity shower rain"
     }
 ]
