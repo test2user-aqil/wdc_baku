@@ -50298,5 +50298,10 @@
         "date_time": "09-03-2024 17:16:12",
         "temperature": 7.03,
         "description": "light intensity drizzle"
+    },
+    {
+        "date_time": "09-03-2024 18:16:32",
+        "temperature": 7.03,
+        "description": "mist"
     }
 ]
