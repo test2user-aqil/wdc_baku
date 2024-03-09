@@ -50318,5 +50318,10 @@
         "date_time": "09-03-2024 21:15:08",
         "temperature": 6.03,
         "description": "mist"
+    },
+    {
+        "date_time": "09-03-2024 22:19:01",
+        "temperature": 6.03,
+        "description": "mist"
     }
 ]
