@@ -51043,5 +51043,10 @@
         "date_time": "16-03-2024 06:20:53",
         "temperature": 8.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "16-03-2024 07:17:51",
+        "temperature": 8.03,
+        "description": "scattered clouds"
     }
 ]
