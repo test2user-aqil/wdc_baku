@@ -51103,5 +51103,10 @@
         "date_time": "16-03-2024 18:14:52",
         "temperature": 9.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "16-03-2024 19:14:45",
+        "temperature": 8.03,
+        "description": "scattered clouds"
     }
 ]
