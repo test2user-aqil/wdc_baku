@@ -51508,5 +51508,10 @@
         "date_time": "20-03-2024 07:17:59",
         "temperature": 7.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "20-03-2024 08:21:26",
+        "temperature": 7.03,
+        "description": "light intensity shower rain"
     }
 ]
