@@ -52083,5 +52083,10 @@
         "date_time": "25-03-2024 07:19:53",
         "temperature": 7.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "25-03-2024 08:21:30",
+        "temperature": 7.03,
+        "description": "scattered clouds"
     }
 ]
