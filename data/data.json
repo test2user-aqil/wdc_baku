@@ -52088,5 +52088,10 @@
         "date_time": "25-03-2024 08:21:30",
         "temperature": 7.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "25-03-2024 09:17:34",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
