@@ -52203,5 +52203,10 @@
         "date_time": "26-03-2024 08:20:32",
         "temperature": 9.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "26-03-2024 09:15:55",
+        "temperature": 11.03,
+        "description": "clear sky"
     }
 ]
