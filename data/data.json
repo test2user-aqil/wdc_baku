@@ -52633,5 +52633,10 @@
         "date_time": "30-03-2024 01:15:27",
         "temperature": 11.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "30-03-2024 02:16:05",
+        "temperature": 10.03,
+        "description": "mist"
     }
 ]
