@@ -52548,5 +52548,10 @@
         "date_time": "29-03-2024 08:20:41",
         "temperature": 8.03,
         "description": "fog"
+    },
+    {
+        "date_time": "29-03-2024 09:16:29",
+        "temperature": 10.03,
+        "description": "mist"
     }
 ]
