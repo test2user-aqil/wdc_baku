@@ -52613,5 +52613,10 @@
         "date_time": "29-03-2024 21:15:17",
         "temperature": 12.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "29-03-2024 22:20:33",
+        "temperature": 11.03,
+        "description": "scattered clouds"
     }
 ]
