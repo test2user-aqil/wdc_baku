@@ -52743,5 +52743,10 @@
         "date_time": "31-03-2024 00:16:10",
         "temperature": 10.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "31-03-2024 01:13:42",
+        "temperature": 10.03,
+        "description": "clear sky"
     }
 ]
