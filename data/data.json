@@ -53738,5 +53738,10 @@
         "date_time": "08-04-2024 17:18:32",
         "temperature": 11.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "08-04-2024 18:17:09",
+        "temperature": 12.03,
+        "description": "scattered clouds"
     }
 ]
