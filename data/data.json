@@ -54608,5 +54608,10 @@
         "date_time": "16-04-2024 23:13:32",
         "temperature": 14.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "17-04-2024 00:17:40",
+        "temperature": 14.03,
+        "description": "broken clouds"
     }
 ]
