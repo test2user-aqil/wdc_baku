@@ -55318,5 +55318,10 @@
         "date_time": "23-04-2024 03:18:01",
         "temperature": 17.36,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "23-04-2024 05:15:27",
+        "temperature": 20.03,
+        "description": "clear sky"
     }
 ]
