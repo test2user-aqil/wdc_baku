@@ -55888,5 +55888,10 @@
         "date_time": "28-04-2024 03:17:06",
         "temperature": 18.55,
         "description": "clear sky"
+    },
+    {
+        "date_time": "28-04-2024 05:20:21",
+        "temperature": 13.03,
+        "description": "clear sky"
     }
 ]
