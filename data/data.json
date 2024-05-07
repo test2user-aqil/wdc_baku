@@ -56948,5 +56948,10 @@
         "date_time": "07-05-2024 09:19:01",
         "temperature": 13.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "07-05-2024 10:23:56",
+        "temperature": 12.03,
+        "description": "light intensity shower rain"
     }
 ]
