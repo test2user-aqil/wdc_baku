@@ -57023,5 +57023,10 @@
         "date_time": "08-05-2024 00:14:48",
         "temperature": 13.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "08-05-2024 01:15:34",
+        "temperature": 13.03,
+        "description": "broken clouds"
     }
 ]
