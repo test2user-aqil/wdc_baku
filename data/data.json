@@ -58228,5 +58228,10 @@
         "date_time": "18-05-2024 12:20:08",
         "temperature": 18.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "18-05-2024 13:18:33",
+        "temperature": 17.03,
+        "description": "scattered clouds"
     }
 ]
