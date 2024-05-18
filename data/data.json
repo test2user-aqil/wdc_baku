@@ -58243,5 +58243,10 @@
         "date_time": "18-05-2024 15:13:28",
         "temperature": 15.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "18-05-2024 16:31:48",
+        "temperature": 17.03,
+        "description": "scattered clouds"
     }
 ]
