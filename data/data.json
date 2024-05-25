@@ -59008,5 +59008,10 @@
         "date_time": "25-05-2024 07:22:05",
         "temperature": 18.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "25-05-2024 08:20:45",
+        "temperature": 18.77,
+        "description": "overcast clouds"
     }
 ]
