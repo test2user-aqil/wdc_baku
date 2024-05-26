@@ -59123,5 +59123,10 @@
         "date_time": "26-05-2024 07:19:08",
         "temperature": 20.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "26-05-2024 08:22:38",
+        "temperature": 21.03,
+        "description": "haze"
     }
 ]
