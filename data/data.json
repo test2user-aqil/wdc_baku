@@ -59773,5 +59773,10 @@
         "date_time": "31-05-2024 22:23:42",
         "temperature": 23.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "31-05-2024 23:15:17",
+        "temperature": 24.03,
+        "description": "thunderstorm"
     }
 ]
