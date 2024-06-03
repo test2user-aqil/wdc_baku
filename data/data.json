@@ -60133,5 +60133,10 @@
         "date_time": "04-06-2024 01:18:02",
         "temperature": 19.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "04-06-2024 02:18:20",
+        "temperature": 20.03,
+        "description": "clear sky"
     }
 ]
