@@ -60888,5 +60888,10 @@
         "date_time": "10-06-2024 15:16:55",
         "temperature": 28.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "10-06-2024 16:36:26",
+        "temperature": 28.03,
+        "description": "clear sky"
     }
 ]
