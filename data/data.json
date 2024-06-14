@@ -61323,5 +61323,10 @@
         "date_time": "14-06-2024 11:17:50",
         "temperature": 30.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "14-06-2024 12:22:40",
+        "temperature": 32.03,
+        "description": "light rain"
     }
 ]
