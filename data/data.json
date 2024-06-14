@@ -61368,5 +61368,10 @@
         "date_time": "14-06-2024 20:22:35",
         "temperature": 26.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "14-06-2024 21:19:17",
+        "temperature": 25.03,
+        "description": "scattered clouds"
     }
 ]
