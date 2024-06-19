@@ -61963,5 +61963,10 @@
         "date_time": "20-06-2024 00:18:29",
         "temperature": 26.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "20-06-2024 01:18:38",
+        "temperature": 25.03,
+        "description": "clear sky"
     }
 ]
