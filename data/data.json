@@ -62248,5 +62248,10 @@
         "date_time": "22-06-2024 12:22:10",
         "temperature": 27.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "22-06-2024 13:18:39",
+        "temperature": 27.03,
+        "description": "few clouds"
     }
 ]
