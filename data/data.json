@@ -62743,5 +62743,10 @@
         "date_time": "26-06-2024 19:20:55",
         "temperature": 22.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "26-06-2024 20:23:50",
+        "temperature": 22.03,
+        "description": "light rain"
     }
 ]
