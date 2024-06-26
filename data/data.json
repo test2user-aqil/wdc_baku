@@ -62773,5 +62773,10 @@
         "date_time": "27-06-2024 01:19:23",
         "temperature": 18.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "27-06-2024 02:18:18",
+        "temperature": 18.03,
+        "description": "light intensity shower rain"
     }
 ]
