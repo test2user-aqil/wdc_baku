@@ -63433,5 +63433,10 @@
         "date_time": "02-07-2024 19:18:45",
         "temperature": 25.03,
         "description": "thunderstorm with light rain"
+    },
+    {
+        "date_time": "02-07-2024 20:25:03",
+        "temperature": 25.03,
+        "description": "light rain"
     }
 ]
