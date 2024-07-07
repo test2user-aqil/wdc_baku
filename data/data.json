@@ -63948,5 +63948,10 @@
         "date_time": "07-07-2024 07:21:28",
         "temperature": 29.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "07-07-2024 08:21:26",
+        "temperature": 30.03,
+        "description": "few clouds"
     }
 ]
