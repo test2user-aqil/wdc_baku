@@ -63993,5 +63993,10 @@
         "date_time": "07-07-2024 16:33:40",
         "temperature": 32.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "07-07-2024 17:18:41",
+        "temperature": 31.03,
+        "description": "light intensity shower rain"
     }
 ]
