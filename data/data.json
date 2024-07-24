@@ -65973,5 +65973,10 @@
         "date_time": "24-07-2024 23:15:12",
         "temperature": 27.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "25-07-2024 00:19:30",
+        "temperature": 26.03,
+        "description": "thunderstorm"
     }
 ]
