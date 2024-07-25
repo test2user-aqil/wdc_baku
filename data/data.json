@@ -66043,5 +66043,10 @@
         "date_time": "25-07-2024 14:20:33",
         "temperature": 29.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "25-07-2024 15:15:51",
+        "temperature": 29.03,
+        "description": "light intensity shower rain"
     }
 ]
