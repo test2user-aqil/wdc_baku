@@ -65993,5 +65993,10 @@
         "date_time": "25-07-2024 03:19:35",
         "temperature": 23.03,
         "description": "thunderstorm with light rain"
+    },
+    {
+        "date_time": "25-07-2024 05:24:12",
+        "temperature": 24.03,
+        "description": "light intensity shower rain"
     }
 ]
