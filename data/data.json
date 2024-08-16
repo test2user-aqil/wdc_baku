@@ -68548,5 +68548,10 @@
         "date_time": "16-08-2024 11:18:21",
         "temperature": 25.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "16-08-2024 12:25:18",
+        "temperature": 26.03,
+        "description": "light rain"
     }
 ]
