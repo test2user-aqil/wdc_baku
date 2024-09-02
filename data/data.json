@@ -70488,5 +70488,10 @@
         "date_time": "02-09-2024 08:25:08",
         "temperature": 26.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "02-09-2024 09:19:39",
+        "temperature": 30.03,
+        "description": "haze"
     }
 ]
