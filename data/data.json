@@ -70603,5 +70603,10 @@
         "date_time": "03-09-2024 08:24:00",
         "temperature": 27.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "03-09-2024 09:19:34",
+        "temperature": 29.03,
+        "description": "haze"
     }
 ]
