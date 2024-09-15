@@ -72043,5 +72043,10 @@
         "date_time": "15-09-2024 20:25:07",
         "temperature": 21.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "15-09-2024 21:16:47",
+        "temperature": 17.03,
+        "description": "clear sky"
     }
 ]
