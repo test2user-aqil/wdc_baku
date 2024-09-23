@@ -72958,5 +72958,10 @@
         "date_time": "23-09-2024 20:25:52",
         "temperature": 24.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "23-09-2024 21:18:39",
+        "temperature": 24.03,
+        "description": "scattered clouds"
     }
 ]
