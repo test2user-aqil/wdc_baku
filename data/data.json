@@ -74153,5 +74153,10 @@
         "date_time": "04-10-2024 07:26:10",
         "temperature": 19.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "04-10-2024 08:25:24",
+        "temperature": 19.03,
+        "description": "light intensity shower rain"
     }
 ]
