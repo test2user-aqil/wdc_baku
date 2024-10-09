@@ -74763,5 +74763,10 @@
         "date_time": "09-10-2024 14:23:09",
         "temperature": 23.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "09-10-2024 15:18:00",
+        "temperature": 24.03,
+        "description": "few clouds"
     }
 ]
