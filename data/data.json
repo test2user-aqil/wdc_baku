@@ -75273,5 +75273,10 @@
         "date_time": "14-10-2024 00:21:29",
         "temperature": 17.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "14-10-2024 01:19:33",
+        "temperature": 18.03,
+        "description": "few clouds"
     }
 ]
