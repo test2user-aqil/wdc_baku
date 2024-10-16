@@ -75553,5 +75553,10 @@
         "date_time": "16-10-2024 11:20:21",
         "temperature": 17.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "16-10-2024 12:28:09",
+        "temperature": 17.03,
+        "description": "light rain"
     }
 ]
