@@ -75733,5 +75733,10 @@
         "date_time": "18-10-2024 00:23:03",
         "temperature": 17.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "18-10-2024 01:20:14",
+        "temperature": 19.03,
+        "description": "light rain"
     }
 ]
