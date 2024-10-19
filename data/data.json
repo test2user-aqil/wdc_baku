@@ -75898,5 +75898,10 @@
         "date_time": "19-10-2024 11:19:56",
         "temperature": 15.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "19-10-2024 12:25:43",
+        "temperature": 15.03,
+        "description": "broken clouds"
     }
 ]
