@@ -76173,5 +76173,10 @@
         "date_time": "21-10-2024 20:26:23",
         "temperature": 12.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "21-10-2024 21:19:08",
+        "temperature": 12.03,
+        "description": "light intensity shower rain"
     }
 ]
