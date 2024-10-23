@@ -76323,5 +76323,10 @@
         "date_time": "23-10-2024 03:21:43",
         "temperature": 14.67,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "23-10-2024 05:45:55",
+        "temperature": 13.77,
+        "description": "scattered clouds"
     }
 ]
