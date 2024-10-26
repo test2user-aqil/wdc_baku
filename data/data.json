@@ -76738,5 +76738,10 @@
         "date_time": "26-10-2024 18:17:44",
         "temperature": 14.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "26-10-2024 19:20:06",
+        "temperature": 12.03,
+        "description": "light intensity shower rain"
     }
 ]
