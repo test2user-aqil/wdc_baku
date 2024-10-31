@@ -77258,5 +77258,10 @@
         "date_time": "31-10-2024 07:29:23",
         "temperature": 10.03,
         "description": "fog"
+    },
+    {
+        "date_time": "31-10-2024 08:26:35",
+        "temperature": 12.03,
+        "description": "mist"
     }
 ]
