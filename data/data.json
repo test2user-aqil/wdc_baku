@@ -77948,5 +77948,10 @@
         "date_time": "06-11-2024 08:26:07",
         "temperature": 7.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "06-11-2024 09:20:16",
+        "temperature": 8.03,
+        "description": "scattered clouds"
     }
 ]
