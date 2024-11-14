@@ -78908,5 +78908,10 @@
         "date_time": "14-11-2024 16:43:32",
         "temperature": 13.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "14-11-2024 17:28:28",
+        "temperature": 12.03,
+        "description": "light rain"
     }
 ]
