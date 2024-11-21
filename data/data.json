@@ -79643,5 +79643,10 @@
         "date_time": "21-11-2024 03:21:14",
         "temperature": 8.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "21-11-2024 05:46:47",
+        "temperature": 10.03,
+        "description": "few clouds"
     }
 ]
