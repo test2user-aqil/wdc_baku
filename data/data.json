@@ -80203,5 +80203,10 @@
         "date_time": "26-11-2024 02:19:50",
         "temperature": 10.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "26-11-2024 03:21:43",
+        "temperature": 11.03,
+        "description": "light intensity drizzle"
     }
 ]
