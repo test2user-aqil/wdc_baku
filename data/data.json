@@ -80348,5 +80348,10 @@
         "date_time": "27-11-2024 11:23:37",
         "temperature": 10.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "27-11-2024 12:30:24",
+        "temperature": 10.03,
+        "description": "broken clouds"
     }
 ]
