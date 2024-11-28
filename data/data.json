@@ -80448,5 +80448,10 @@
         "date_time": "28-11-2024 09:22:32",
         "temperature": 9.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "28-11-2024 10:32:24",
+        "temperature": 8.03,
+        "description": "light intensity shower rain"
     }
 ]
