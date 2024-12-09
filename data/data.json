@@ -81743,5 +81743,10 @@
         "date_time": "10-12-2024 01:21:29",
         "temperature": 6.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "10-12-2024 02:22:10",
+        "temperature": 6.03,
+        "description": "overcast clouds"
     }
 ]
