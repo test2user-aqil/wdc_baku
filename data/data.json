@@ -81958,5 +81958,10 @@
         "date_time": "12-12-2024 00:25:29",
         "temperature": 10.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "12-12-2024 01:21:16",
+        "temperature": 9.03,
+        "description": "clear sky"
     }
 ]
