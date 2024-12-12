@@ -82018,5 +82018,10 @@
         "date_time": "12-12-2024 14:25:10",
         "temperature": 10.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "12-12-2024 15:18:57",
+        "temperature": 10.03,
+        "description": "scattered clouds"
     }
 ]
