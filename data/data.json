@@ -82218,5 +82218,10 @@
         "date_time": "14-12-2024 09:20:12",
         "temperature": 2.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "14-12-2024 10:30:00",
+        "temperature": 3.03,
+        "description": "light shower snow"
     }
 ]
