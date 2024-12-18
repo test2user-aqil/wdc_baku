@@ -82653,5 +82653,10 @@
         "date_time": "18-12-2024 07:34:35",
         "temperature": 8.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "18-12-2024 08:26:28",
+        "temperature": 8.03,
+        "description": "clear sky"
     }
 ]
