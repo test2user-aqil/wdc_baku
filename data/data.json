@@ -82738,5 +82738,10 @@
         "date_time": "19-12-2024 00:24:27",
         "temperature": 6.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "19-12-2024 01:18:27",
+        "temperature": 6.03,
+        "description": "light intensity shower rain"
     }
 ]
