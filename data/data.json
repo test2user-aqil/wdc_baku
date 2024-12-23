@@ -83308,5 +83308,10 @@
         "date_time": "24-12-2024 00:22:08",
         "temperature": 4.03,
         "description": "fog"
+    },
+    {
+        "date_time": "24-12-2024 01:18:43",
+        "temperature": 3.03,
+        "description": "mist"
     }
 ]
