@@ -83798,5 +83798,10 @@
         "date_time": "28-12-2024 07:23:32",
         "temperature": 9.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "28-12-2024 08:24:51",
+        "temperature": 9.03,
+        "description": "moderate rain"
     }
 ]
