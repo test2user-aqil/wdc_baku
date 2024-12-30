@@ -84073,5 +84073,10 @@
         "date_time": "30-12-2024 16:41:17",
         "temperature": 6.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "30-12-2024 17:26:08",
+        "temperature": 6.03,
+        "description": "light intensity drizzle"
     }
 ]
