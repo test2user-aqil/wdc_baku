@@ -84163,5 +84163,10 @@
         "date_time": "31-12-2024 11:19:35",
         "temperature": 7.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "31-12-2024 12:26:42",
+        "temperature": 8.03,
+        "description": "scattered clouds"
     }
 ]
