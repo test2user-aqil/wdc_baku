@@ -84143,5 +84143,10 @@
         "date_time": "31-12-2024 07:24:52",
         "temperature": 5.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "31-12-2024 08:25:24",
+        "temperature": 5.03,
+        "description": "overcast clouds"
     }
 ]
