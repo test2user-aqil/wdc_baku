@@ -84778,5 +84778,10 @@
         "date_time": "05-01-2025 19:19:19",
         "temperature": 7.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "05-01-2025 20:23:44",
+        "temperature": 6.03,
+        "description": "broken clouds"
     }
 ]
