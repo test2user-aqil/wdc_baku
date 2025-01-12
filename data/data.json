@@ -85543,5 +85543,10 @@
         "date_time": "12-01-2025 13:19:34",
         "temperature": 9.03,
         "description": "mist"
+    },
+    {
+        "date_time": "12-01-2025 14:20:16",
+        "temperature": 9.03,
+        "description": "mist"
     }
 ]
