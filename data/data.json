@@ -85628,5 +85628,10 @@
         "date_time": "13-01-2025 07:31:30",
         "temperature": 2.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "13-01-2025 08:26:30",
+        "temperature": 2.03,
+        "description": "mist"
     }
 ]
