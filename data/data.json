@@ -85748,5 +85748,10 @@
         "date_time": "14-01-2025 08:24:08",
         "temperature": 5.03,
         "description": "fog"
+    },
+    {
+        "date_time": "14-01-2025 09:19:12",
+        "temperature": 7.03,
+        "description": "mist"
     }
 ]
