@@ -86443,5 +86443,10 @@
         "date_time": "20-01-2025 09:20:11",
         "temperature": 6.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "20-01-2025 10:29:49",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
