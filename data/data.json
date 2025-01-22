@@ -86728,5 +86728,10 @@
         "date_time": "22-01-2025 20:26:48",
         "temperature": 9.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "22-01-2025 21:18:54",
+        "temperature": 9.03,
+        "description": "light intensity shower rain"
     }
 ]
