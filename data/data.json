@@ -86838,5 +86838,10 @@
         "date_time": "23-01-2025 19:22:27",
         "temperature": 8.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "23-01-2025 20:26:46",
+        "temperature": 8.03,
+        "description": "broken clouds"
     }
 ]
