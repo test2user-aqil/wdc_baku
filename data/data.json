@@ -87008,5 +87008,10 @@
         "date_time": "25-01-2025 07:21:01",
         "temperature": 3.03,
         "description": "fog"
+    },
+    {
+        "date_time": "25-01-2025 08:25:04",
+        "temperature": 3.03,
+        "description": "broken clouds"
     }
 ]
