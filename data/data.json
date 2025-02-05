@@ -88348,5 +88348,10 @@
         "date_time": "05-02-2025 22:28:57",
         "temperature": 6.03,
         "description": "light intensity drizzle"
+    },
+    {
+        "date_time": "05-02-2025 23:17:33",
+        "temperature": 6.03,
+        "description": "light intensity drizzle"
     }
 ]
