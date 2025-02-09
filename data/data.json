@@ -88823,5 +88823,10 @@
         "date_time": "10-02-2025 01:18:36",
         "temperature": 1.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "10-02-2025 02:19:16",
+        "temperature": 0.03,
+        "description": "few clouds"
     }
 ]
