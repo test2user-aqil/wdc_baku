@@ -89273,5 +89273,10 @@
         "date_time": "13-02-2025 23:16:33",
         "temperature": 5.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "14-02-2025 00:22:44",
+        "temperature": 5.03,
+        "description": "overcast clouds"
     }
 ]
