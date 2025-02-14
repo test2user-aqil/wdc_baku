@@ -89388,5 +89388,10 @@
         "date_time": "14-02-2025 23:17:24",
         "temperature": 5.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "15-02-2025 00:22:28",
+        "temperature": 5.03,
+        "description": "light rain"
     }
 ]
