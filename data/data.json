@@ -89728,5 +89728,10 @@
         "date_time": "17-02-2025 22:28:36",
         "temperature": 4.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "17-02-2025 23:16:55",
+        "temperature": 4.03,
+        "description": "light intensity drizzle"
     }
 ]
