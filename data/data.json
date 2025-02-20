@@ -90053,5 +90053,10 @@
         "date_time": "20-02-2025 18:20:56",
         "temperature": 1.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "20-02-2025 19:24:12",
+        "temperature": 0.03,
+        "description": "snow"
     }
 ]
