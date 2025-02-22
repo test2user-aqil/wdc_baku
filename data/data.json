@@ -90218,5 +90218,10 @@
         "date_time": "22-02-2025 05:40:12",
         "temperature": -0.97,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "22-02-2025 06:48:13",
+        "temperature": -0.97,
+        "description": "overcast clouds"
     }
 ]
