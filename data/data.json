@@ -90338,5 +90338,10 @@
         "date_time": "23-02-2025 06:55:27",
         "temperature": -0.97,
         "description": "light snow"
+    },
+    {
+        "date_time": "23-02-2025 07:27:23",
+        "temperature": -0.97,
+        "description": "light snow"
     }
 ]
