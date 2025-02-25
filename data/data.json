@@ -90573,5 +90573,10 @@
         "date_time": "25-02-2025 07:28:13",
         "temperature": -5.97,
         "description": "fog"
+    },
+    {
+        "date_time": "25-02-2025 08:26:03",
+        "temperature": -5.97,
+        "description": "fog"
     }
 ]
