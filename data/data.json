@@ -90723,5 +90723,10 @@
         "date_time": "26-02-2025 14:23:44",
         "temperature": 1.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "26-02-2025 15:18:22",
+        "temperature": 1.03,
+        "description": "light snow"
     }
 ]
