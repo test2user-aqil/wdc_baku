@@ -90898,5 +90898,10 @@
         "date_time": "28-02-2025 02:21:49",
         "temperature": 0.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "28-02-2025 03:20:57",
+        "temperature": 0.03,
+        "description": "clear sky"
     }
 ]
