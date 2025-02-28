@@ -91013,5 +91013,10 @@
         "date_time": "01-03-2025 02:20:12",
         "temperature": -0.97,
         "description": "light snow"
+    },
+    {
+        "date_time": "01-03-2025 03:20:02",
+        "temperature": -0.97,
+        "description": "light snow"
     }
 ]
