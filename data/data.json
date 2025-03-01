@@ -91083,5 +91083,10 @@
         "date_time": "01-03-2025 17:22:57",
         "temperature": 1.03,
         "description": "light snow"
+    },
+    {
+        "date_time": "01-03-2025 18:19:14",
+        "temperature": 1.03,
+        "description": "broken clouds"
     }
 ]
