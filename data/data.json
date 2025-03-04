@@ -91473,5 +91473,10 @@
         "date_time": "05-03-2025 02:19:03",
         "temperature": 0.03,
         "description": "mist"
+    },
+    {
+        "date_time": "05-03-2025 03:20:38",
+        "temperature": -0.97,
+        "description": "clear sky"
     }
 ]
