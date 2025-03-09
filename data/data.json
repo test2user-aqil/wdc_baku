@@ -92013,5 +92013,10 @@
         "date_time": "09-03-2025 20:21:04",
         "temperature": 6.03,
         "description": "mist"
+    },
+    {
+        "date_time": "09-03-2025 21:16:24",
+        "temperature": 6.03,
+        "description": "mist"
     }
 ]
