@@ -92278,5 +92278,10 @@
         "date_time": "12-03-2025 03:20:14",
         "temperature": 4.03,
         "description": "fog"
+    },
+    {
+        "date_time": "12-03-2025 05:46:53",
+        "temperature": 4.03,
+        "description": "fog"
     }
 ]
