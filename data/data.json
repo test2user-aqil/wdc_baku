@@ -92383,5 +92383,10 @@
         "date_time": "13-03-2025 01:20:38",
         "temperature": 8.03,
         "description": "fog"
+    },
+    {
+        "date_time": "13-03-2025 02:21:07",
+        "temperature": 8.03,
+        "description": "fog"
     }
 ]
