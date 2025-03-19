@@ -93113,5 +93113,10 @@
         "date_time": "19-03-2025 13:25:14",
         "temperature": 12.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "19-03-2025 14:25:05",
+        "temperature": 12.03,
+        "description": "scattered clouds"
     }
 ]
