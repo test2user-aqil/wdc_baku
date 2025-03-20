@@ -93183,5 +93183,10 @@
         "date_time": "20-03-2025 03:21:58",
         "temperature": 7.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "20-03-2025 05:48:19",
+        "temperature": 6.03,
+        "description": "light intensity shower rain"
     }
 ]
