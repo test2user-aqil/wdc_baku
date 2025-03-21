@@ -93403,5 +93403,10 @@
         "date_time": "22-03-2025 02:21:17",
         "temperature": 7.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "22-03-2025 03:20:27",
+        "temperature": 6.9,
+        "description": "light intensity shower rain"
     }
 ]
