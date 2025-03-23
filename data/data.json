@@ -93578,5 +93578,10 @@
         "date_time": "23-03-2025 16:40:53",
         "temperature": 9.08,
         "description": "clear sky"
+    },
+    {
+        "date_time": "23-03-2025 17:25:00",
+        "temperature": 8.03,
+        "description": "light intensity shower rain"
     }
 ]
