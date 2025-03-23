@@ -93543,5 +93543,10 @@
         "date_time": "23-03-2025 09:20:31",
         "temperature": 7.2,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "23-03-2025 10:29:34",
+        "temperature": 7.55,
+        "description": "overcast clouds"
     }
 ]
