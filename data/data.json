@@ -93738,5 +93738,10 @@
         "date_time": "25-03-2025 02:22:18",
         "temperature": 6.95,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "25-03-2025 03:22:27",
+        "temperature": 6.89,
+        "description": "broken clouds"
     }
 ]
