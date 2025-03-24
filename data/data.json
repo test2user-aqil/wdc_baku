@@ -93683,5 +93683,10 @@
         "date_time": "24-03-2025 15:18:54",
         "temperature": 8.61,
         "description": "light rain"
+    },
+    {
+        "date_time": "24-03-2025 16:47:50",
+        "temperature": 6.56,
+        "description": "broken clouds"
     }
 ]
