@@ -93633,5 +93633,10 @@
         "date_time": "24-03-2025 03:20:03",
         "temperature": 7.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "24-03-2025 05:53:16",
+        "temperature": 6.03,
+        "description": "light intensity shower rain"
     }
 ]
