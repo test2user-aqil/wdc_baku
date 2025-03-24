@@ -93693,5 +93693,10 @@
         "date_time": "24-03-2025 17:31:30",
         "temperature": 6.9,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "24-03-2025 18:22:18",
+        "temperature": 6.55,
+        "description": "overcast clouds"
     }
 ]
