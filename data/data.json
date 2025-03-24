@@ -93678,5 +93678,10 @@
         "date_time": "24-03-2025 14:25:35",
         "temperature": 8.86,
         "description": "light rain"
+    },
+    {
+        "date_time": "24-03-2025 15:18:54",
+        "temperature": 8.61,
+        "description": "light rain"
     }
 ]
