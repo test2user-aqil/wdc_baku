@@ -93798,5 +93798,10 @@
         "date_time": "25-03-2025 16:46:18",
         "temperature": 8.98,
         "description": "clear sky"
+    },
+    {
+        "date_time": "25-03-2025 17:31:19",
+        "temperature": 8.94,
+        "description": "clear sky"
     }
 ]
