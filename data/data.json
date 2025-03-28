@@ -94178,5 +94178,10 @@
         "date_time": "29-03-2025 02:20:48",
         "temperature": 8.03,
         "description": "mist"
+    },
+    {
+        "date_time": "29-03-2025 03:21:24",
+        "temperature": 8.03,
+        "description": "fog"
     }
 ]
