@@ -94743,5 +94743,10 @@
         "date_time": "03-04-2025 05:50:40",
         "temperature": 12.82,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "03-04-2025 07:01:53",
+        "temperature": 12.72,
+        "description": "broken clouds"
     }
 ]
