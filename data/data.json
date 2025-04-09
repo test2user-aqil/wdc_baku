@@ -95413,5 +95413,10 @@
         "date_time": "09-04-2025 07:03:54",
         "temperature": 10.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "09-04-2025 08:27:19",
+        "temperature": 10.03,
+        "description": "broken clouds"
     }
 ]
