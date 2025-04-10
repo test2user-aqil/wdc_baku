@@ -95618,5 +95618,10 @@
         "date_time": "11-04-2025 02:23:09",
         "temperature": 7.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "11-04-2025 03:23:18",
+        "temperature": 7.03,
+        "description": "scattered clouds"
     }
 ]
