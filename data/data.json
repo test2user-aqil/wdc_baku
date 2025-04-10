@@ -95583,5 +95583,10 @@
         "date_time": "10-04-2025 19:25:37",
         "temperature": 8.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "10-04-2025 20:30:00",
+        "temperature": 8.03,
+        "description": "overcast clouds"
     }
 ]
