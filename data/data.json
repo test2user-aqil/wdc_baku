@@ -95553,5 +95553,10 @@
         "date_time": "10-04-2025 13:25:04",
         "temperature": 10.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "10-04-2025 14:25:40",
+        "temperature": 9.03,
+        "description": "light rain"
     }
 ]
