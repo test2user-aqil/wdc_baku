@@ -95598,5 +95598,10 @@
         "date_time": "10-04-2025 22:29:26",
         "temperature": 8.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "10-04-2025 23:17:24",
+        "temperature": 7.03,
+        "description": "light rain"
     }
 ]
