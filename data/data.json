@@ -96008,5 +96008,10 @@
         "date_time": "14-04-2025 17:32:59",
         "temperature": 12.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "14-04-2025 18:24:07",
+        "temperature": 12.03,
+        "description": "overcast clouds"
     }
 ]
