@@ -96053,5 +96053,10 @@
         "date_time": "15-04-2025 02:22:12",
         "temperature": 12.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "15-04-2025 03:21:24",
+        "temperature": 12.03,
+        "description": "light intensity shower rain"
     }
 ]
