@@ -96173,5 +96173,10 @@
         "date_time": "16-04-2025 05:54:41",
         "temperature": 10.03,
         "description": "thunderstorm with light rain"
+    },
+    {
+        "date_time": "16-04-2025 07:07:18",
+        "temperature": 9.03,
+        "description": "light intensity shower rain"
     }
 ]
