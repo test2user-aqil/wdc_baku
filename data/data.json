@@ -96503,5 +96503,10 @@
         "date_time": "19-04-2025 05:48:22",
         "temperature": 6.03,
         "description": "fog"
+    },
+    {
+        "date_time": "19-04-2025 06:59:04",
+        "temperature": 6.03,
+        "description": "mist"
     }
 ]
