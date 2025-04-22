@@ -96888,5 +96888,10 @@
         "date_time": "22-04-2025 16:48:09",
         "temperature": 22.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "22-04-2025 17:32:06",
+        "temperature": 22.03,
+        "description": "clear sky"
     }
 ]
