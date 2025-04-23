@@ -97003,5 +97003,10 @@
         "date_time": "23-04-2025 17:32:35",
         "temperature": 20.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "23-04-2025 18:24:19",
+        "temperature": 19.03,
+        "description": "few clouds"
     }
 ]
