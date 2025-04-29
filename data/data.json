@@ -97653,5 +97653,10 @@
         "date_time": "29-04-2025 17:36:24",
         "temperature": 11.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "29-04-2025 18:24:16",
+        "temperature": 10.03,
+        "description": "overcast clouds"
     }
 ]
