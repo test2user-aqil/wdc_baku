@@ -97768,5 +97768,10 @@
         "date_time": "30-04-2025 18:23:11",
         "temperature": 14.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "30-04-2025 19:25:36",
+        "temperature": 13.03,
+        "description": "broken clouds"
     }
 ]
