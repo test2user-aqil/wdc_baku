@@ -98203,5 +98203,10 @@
         "date_time": "04-05-2025 17:28:22",
         "temperature": 17.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "04-05-2025 18:20:02",
+        "temperature": 16.03,
+        "description": "scattered clouds"
     }
 ]
