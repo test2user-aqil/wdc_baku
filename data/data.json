@@ -99018,5 +99018,10 @@
         "date_time": "12-05-2025 02:21:33",
         "temperature": 17.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "12-05-2025 03:21:12",
+        "temperature": 18.03,
+        "description": "thunderstorm with light rain"
     }
 ]
