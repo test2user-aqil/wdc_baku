@@ -99118,5 +99118,10 @@
         "date_time": "13-05-2025 00:26:47",
         "temperature": 18.07,
         "description": "light rain"
+    },
+    {
+        "date_time": "13-05-2025 01:22:04",
+        "temperature": 17.87,
+        "description": "light rain"
     }
 ]
