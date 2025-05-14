@@ -99268,5 +99268,10 @@
         "date_time": "14-05-2025 10:34:24",
         "temperature": 18.42,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "14-05-2025 11:23:50",
+        "temperature": 18.42,
+        "description": "scattered clouds"
     }
 ]
