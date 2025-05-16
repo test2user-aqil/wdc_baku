@@ -99493,5 +99493,10 @@
         "date_time": "16-05-2025 11:23:38",
         "temperature": 18.48,
         "description": "clear sky"
+    },
+    {
+        "date_time": "16-05-2025 12:31:58",
+        "temperature": 17.95,
+        "description": "scattered clouds"
     }
 ]
