@@ -99913,5 +99913,10 @@
         "date_time": "20-05-2025 07:16:02",
         "temperature": 17.47,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "20-05-2025 08:28:49",
+        "temperature": 17.61,
+        "description": "overcast clouds"
     }
 ]
