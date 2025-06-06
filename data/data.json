@@ -101863,5 +101863,10 @@
         "date_time": "07-06-2025 01:22:36",
         "temperature": 22.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "07-06-2025 02:23:51",
+        "temperature": 23.03,
+        "description": "few clouds"
     }
 ]
