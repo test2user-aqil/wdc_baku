@@ -101953,5 +101953,10 @@
         "date_time": "07-06-2025 21:19:29",
         "temperature": 18.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "07-06-2025 22:31:18",
+        "temperature": 18.03,
+        "description": "light intensity shower rain"
     }
 ]
