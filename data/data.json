@@ -102773,5 +102773,10 @@
         "date_time": "15-06-2025 09:22:56",
         "temperature": 23.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "15-06-2025 10:33:10",
+        "temperature": 22.03,
+        "description": "broken clouds"
     }
 ]
