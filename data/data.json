@@ -102973,5 +102973,10 @@
         "date_time": "17-06-2025 03:22:55",
         "temperature": 20.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "17-06-2025 06:02:54",
+        "temperature": 21.01,
+        "description": "overcast clouds"
     }
 ]
