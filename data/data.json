@@ -103083,5 +103083,10 @@
         "date_time": "18-06-2025 03:22:59",
         "temperature": 20.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "18-06-2025 06:02:09",
+        "temperature": 19.03,
+        "description": "clear sky"
     }
 ]
