@@ -105483,5 +105483,10 @@
         "date_time": "10-07-2025 01:23:56",
         "temperature": 25.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "10-07-2025 02:24:27",
+        "temperature": 25.03,
+        "description": "light rain"
     }
 ]
