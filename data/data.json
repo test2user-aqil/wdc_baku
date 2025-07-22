@@ -106853,5 +106853,10 @@
         "date_time": "22-07-2025 20:34:20",
         "temperature": 27.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "22-07-2025 21:25:56",
+        "temperature": 25.84,
+        "description": "clear sky"
     }
 ]
