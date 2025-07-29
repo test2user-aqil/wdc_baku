@@ -107568,5 +107568,10 @@
         "date_time": "29-07-2025 15:23:25",
         "temperature": 31.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "29-07-2025 16:58:01",
+        "temperature": 30.03,
+        "description": "few clouds"
     }
 ]
