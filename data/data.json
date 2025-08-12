@@ -109093,5 +109093,10 @@
         "date_time": "13-08-2025 01:23:41",
         "temperature": 26.03,
         "description": "thunderstorm"
+    },
+    {
+        "date_time": "13-08-2025 02:23:53",
+        "temperature": 26.03,
+        "description": "thunderstorm with light rain"
     }
 ]
