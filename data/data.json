@@ -109533,5 +109533,10 @@
         "date_time": "17-08-2025 01:21:31",
         "temperature": 25.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "17-08-2025 02:22:55",
+        "temperature": 23.03,
+        "description": "scattered clouds"
     }
 ]
