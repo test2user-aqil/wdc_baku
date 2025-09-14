@@ -112668,5 +112668,10 @@
         "date_time": "14-09-2025 08:26:15",
         "temperature": 18.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "14-09-2025 09:20:28",
+        "temperature": 18.03,
+        "description": "light intensity shower rain"
     }
 ]
