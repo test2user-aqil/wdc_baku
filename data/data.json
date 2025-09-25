@@ -113883,5 +113883,10 @@
         "date_time": "25-09-2025 03:20:30",
         "temperature": 19.64,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "25-09-2025 05:50:17",
+        "temperature": 13.03,
+        "description": "clear sky"
     }
 ]
