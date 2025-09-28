@@ -114223,5 +114223,10 @@
         "date_time": "28-09-2025 05:58:55",
         "temperature": 17.32,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "28-09-2025 07:12:38",
+        "temperature": 17.4,
+        "description": "overcast clouds"
     }
 ]
