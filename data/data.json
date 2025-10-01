@@ -114653,5 +114653,10 @@
         "date_time": "02-10-2025 02:21:28",
         "temperature": 16.82,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "02-10-2025 03:19:49",
+        "temperature": 16.03,
+        "description": "light intensity shower rain"
     }
 ]
