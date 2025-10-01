@@ -114598,5 +114598,10 @@
         "date_time": "01-10-2025 15:20:12",
         "temperature": 19.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "01-10-2025 16:51:44",
+        "temperature": 17.03,
+        "description": "scattered clouds"
     }
 ]
