@@ -115148,5 +115148,10 @@
         "date_time": "06-10-2025 12:31:28",
         "temperature": 22.85,
         "description": "clear sky"
+    },
+    {
+        "date_time": "06-10-2025 13:27:39",
+        "temperature": 23.03,
+        "description": "few clouds"
     }
 ]
