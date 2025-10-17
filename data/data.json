@@ -116368,5 +116368,10 @@
         "date_time": "17-10-2025 13:25:54",
         "temperature": 16.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "17-10-2025 14:25:34",
+        "temperature": 18.03,
+        "description": "light rain"
     }
 ]
