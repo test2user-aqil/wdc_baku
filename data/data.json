@@ -116683,5 +116683,10 @@
         "date_time": "20-10-2025 09:24:44",
         "temperature": 19.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "20-10-2025 10:36:36",
+        "temperature": 21.03,
+        "description": "clear sky"
     }
 ]
