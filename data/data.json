@@ -118213,5 +118213,10 @@
         "date_time": "03-11-2025 07:51:53",
         "temperature": 13.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "03-11-2025 08:33:04",
+        "temperature": 13.03,
+        "description": "light intensity shower rain"
     }
 ]
