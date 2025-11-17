@@ -119763,5 +119763,10 @@
         "date_time": "17-11-2025 09:25:57",
         "temperature": 13.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "17-11-2025 10:38:05",
+        "temperature": 16.03,
+        "description": "broken clouds"
     }
 ]
