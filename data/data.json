@@ -120278,5 +120278,10 @@
         "date_time": "22-11-2025 01:22:07",
         "temperature": 10.03,
         "description": "fog"
+    },
+    {
+        "date_time": "22-11-2025 02:24:17",
+        "temperature": 10.03,
+        "description": "fog"
     }
 ]
