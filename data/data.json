@@ -120288,5 +120288,10 @@
         "date_time": "22-11-2025 03:22:14",
         "temperature": 12.03,
         "description": "fog"
+    },
+    {
+        "date_time": "22-11-2025 05:53:20",
+        "temperature": 12.03,
+        "description": "mist"
     }
 ]
