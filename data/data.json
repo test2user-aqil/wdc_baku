@@ -121533,5 +121533,10 @@
         "date_time": "03-12-2025 13:30:15",
         "temperature": 11.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "03-12-2025 14:31:03",
+        "temperature": 12.03,
+        "description": "broken clouds"
     }
 ]
