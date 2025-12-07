@@ -121973,5 +121973,10 @@
         "date_time": "07-12-2025 13:24:06",
         "temperature": 13.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "07-12-2025 14:23:45",
+        "temperature": 12.03,
+        "description": "scattered clouds"
     }
 ]
