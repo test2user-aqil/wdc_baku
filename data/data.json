@@ -122088,5 +122088,10 @@
         "date_time": "08-12-2025 14:30:23",
         "temperature": 12.03,
         "description": "mist"
+    },
+    {
+        "date_time": "08-12-2025 15:24:09",
+        "temperature": 13.03,
+        "description": "mist"
     }
 ]
