@@ -122308,5 +122308,10 @@
         "date_time": "10-12-2025 14:31:04",
         "temperature": 12.03,
         "description": "moderate rain"
+    },
+    {
+        "date_time": "10-12-2025 15:23:41",
+        "temperature": 12.03,
+        "description": "moderate rain"
     }
 ]
