@@ -122508,5 +122508,10 @@
         "date_time": "12-12-2025 10:41:10",
         "temperature": 10.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "12-12-2025 11:28:00",
+        "temperature": 9.03,
+        "description": "overcast clouds"
     }
 ]
