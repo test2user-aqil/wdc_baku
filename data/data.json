@@ -122733,5 +122733,10 @@
         "date_time": "14-12-2025 12:32:27",
         "temperature": 4.03,
         "description": "light shower snow"
+    },
+    {
+        "date_time": "14-12-2025 13:25:41",
+        "temperature": 3.03,
+        "description": "overcast clouds"
     }
 ]
