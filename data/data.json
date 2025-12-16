@@ -122978,5 +122978,10 @@
         "date_time": "16-12-2025 18:30:27",
         "temperature": 9.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "16-12-2025 19:29:29",
+        "temperature": 9.03,
+        "description": "scattered clouds"
     }
 ]
