@@ -123423,5 +123423,10 @@
         "date_time": "20-12-2025 19:24:07",
         "temperature": 7.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "20-12-2025 20:30:09",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
