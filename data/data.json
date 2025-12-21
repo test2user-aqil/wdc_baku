@@ -123548,5 +123548,10 @@
         "date_time": "21-12-2025 23:19:42",
         "temperature": 8.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "22-12-2025 00:27:42",
+        "temperature": 8.03,
+        "description": "light rain"
     }
 ]
