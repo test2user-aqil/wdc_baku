@@ -123943,5 +123943,10 @@
         "date_time": "25-12-2025 17:35:53",
         "temperature": 5.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "25-12-2025 18:25:30",
+        "temperature": 4.03,
+        "description": "light intensity shower rain"
     }
 ]
