@@ -123983,5 +123983,10 @@
         "date_time": "26-12-2025 01:23:58",
         "temperature": 4.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "26-12-2025 02:25:26",
+        "temperature": 4.03,
+        "description": "overcast clouds"
     }
 ]
