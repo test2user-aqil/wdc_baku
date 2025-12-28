@@ -124238,5 +124238,10 @@
         "date_time": "28-12-2025 11:25:07",
         "temperature": 6.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "28-12-2025 12:33:36",
+        "temperature": 6.03,
+        "description": "overcast clouds"
     }
 ]
