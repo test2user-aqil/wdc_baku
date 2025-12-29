@@ -124398,5 +124398,10 @@
         "date_time": "29-12-2025 22:37:57",
         "temperature": 4.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "29-12-2025 23:20:58",
+        "temperature": 3.03,
+        "description": "clear sky"
     }
 ]
