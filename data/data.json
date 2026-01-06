@@ -125173,5 +125173,10 @@
         "date_time": "06-01-2026 08:03:37",
         "temperature": 2.03,
         "description": "fog"
+    },
+    {
+        "date_time": "06-01-2026 09:30:42",
+        "temperature": 2.03,
+        "description": "mist"
     }
 ]
