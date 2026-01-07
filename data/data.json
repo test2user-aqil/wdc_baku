@@ -125278,5 +125278,10 @@
         "date_time": "07-01-2026 08:04:23",
         "temperature": 7.03,
         "description": "fog"
+    },
+    {
+        "date_time": "07-01-2026 09:31:05",
+        "temperature": 7.03,
+        "description": "fog"
     }
 ]
