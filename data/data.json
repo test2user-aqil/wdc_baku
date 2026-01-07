@@ -125293,5 +125293,10 @@
         "date_time": "07-01-2026 11:30:35",
         "temperature": 9.03,
         "description": "mist"
+    },
+    {
+        "date_time": "07-01-2026 12:38:11",
+        "temperature": 9.03,
+        "description": "mist"
     }
 ]
