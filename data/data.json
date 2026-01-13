@@ -125963,5 +125963,10 @@
         "date_time": "13-01-2026 18:31:38",
         "temperature": 8.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "13-01-2026 19:32:19",
+        "temperature": 7.03,
+        "description": "moderate rain"
     }
 ]
