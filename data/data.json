@@ -125903,5 +125903,10 @@
         "date_time": "13-01-2026 03:21:49",
         "temperature": 7.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "13-01-2026 06:06:43",
+        "temperature": 7.03,
+        "description": "broken clouds"
     }
 ]
