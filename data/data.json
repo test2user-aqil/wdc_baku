@@ -126023,5 +126023,10 @@
         "date_time": "14-01-2026 09:31:09",
         "temperature": 4.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "14-01-2026 10:42:48",
+        "temperature": 5.03,
+        "description": "broken clouds"
     }
 ]
