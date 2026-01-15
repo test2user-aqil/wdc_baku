@@ -126213,5 +126213,10 @@
         "date_time": "16-01-2026 02:28:16",
         "temperature": 0.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "16-01-2026 03:27:17",
+        "temperature": 2.03,
+        "description": "broken clouds"
     }
 ]
