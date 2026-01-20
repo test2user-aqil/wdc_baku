@@ -126673,5 +126673,10 @@
         "date_time": "20-01-2026 13:38:39",
         "temperature": 2.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "20-01-2026 14:35:16",
+        "temperature": 2.03,
+        "description": "light rain and snow"
     }
 ]
