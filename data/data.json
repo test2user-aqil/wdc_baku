@@ -126888,5 +126888,10 @@
         "date_time": "22-01-2026 19:37:13",
         "temperature": 4.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "22-01-2026 20:42:14",
+        "temperature": 3.03,
+        "description": "clear sky"
     }
 ]
