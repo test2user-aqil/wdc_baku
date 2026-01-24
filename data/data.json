@@ -127028,5 +127028,10 @@
         "date_time": "24-01-2026 03:27:41",
         "temperature": 4.03,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "24-01-2026 06:06:42",
+        "temperature": 3.03,
+        "description": "scattered clouds"
     }
 ]
