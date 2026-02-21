@@ -129663,5 +129663,10 @@
         "date_time": "21-02-2026 20:36:54",
         "temperature": 8.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "21-02-2026 21:30:17",
+        "temperature": 7.03,
+        "description": "clear sky"
     }
 ]
