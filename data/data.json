@@ -129958,5 +129958,10 @@
         "date_time": "25-02-2026 06:43:48",
         "temperature": 5.03,
         "description": "mist"
+    },
+    {
+        "date_time": "25-02-2026 08:58:17",
+        "temperature": 6.03,
+        "description": "light intensity drizzle"
     }
 ]
