@@ -130168,5 +130168,10 @@
         "date_time": "27-02-2026 18:45:18",
         "temperature": 5.03,
         "description": "light intensity drizzle"
+    },
+    {
+        "date_time": "27-02-2026 19:41:47",
+        "temperature": 5.03,
+        "description": "overcast clouds"
     }
 ]
