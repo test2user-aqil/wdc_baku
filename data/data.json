@@ -130123,5 +130123,10 @@
         "date_time": "27-02-2026 06:37:44",
         "temperature": 6.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "27-02-2026 08:49:37",
+        "temperature": 6.03,
+        "description": "overcast clouds"
     }
 ]
