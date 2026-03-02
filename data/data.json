@@ -130433,5 +130433,10 @@
         "date_time": "02-03-2026 09:56:46",
         "temperature": 6.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "02-03-2026 11:10:01",
+        "temperature": 6.03,
+        "description": "broken clouds"
     }
 ]
