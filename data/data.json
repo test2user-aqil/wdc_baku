@@ -132378,5 +132378,10 @@
         "date_time": "23-03-2026 23:07:20",
         "temperature": 8.03,
         "description": "mist"
+    },
+    {
+        "date_time": "24-03-2026 00:42:14",
+        "temperature": 7.03,
+        "description": "fog"
     }
 ]
