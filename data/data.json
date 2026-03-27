@@ -132648,5 +132648,10 @@
         "date_time": "27-03-2026 15:46:12",
         "temperature": 10.07,
         "description": "heavy intensity rain"
+    },
+    {
+        "date_time": "27-03-2026 17:20:16",
+        "temperature": 12.03,
+        "description": "light intensity shower rain"
     }
 ]
