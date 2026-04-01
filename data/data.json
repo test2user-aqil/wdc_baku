@@ -133068,5 +133068,10 @@
         "date_time": "02-04-2026 02:46:41",
         "temperature": 10.03,
         "description": "mist"
+    },
+    {
+        "date_time": "02-04-2026 03:41:25",
+        "temperature": 10.03,
+        "description": "fog"
     }
 ]
