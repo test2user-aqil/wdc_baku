@@ -133253,5 +133253,10 @@
         "date_time": "04-04-2026 12:51:08",
         "temperature": 12.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "04-04-2026 13:46:54",
+        "temperature": 12.03,
+        "description": "light intensity shower rain"
     }
 ]
