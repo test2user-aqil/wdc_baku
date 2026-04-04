@@ -133278,5 +133278,10 @@
         "date_time": "04-04-2026 18:38:59",
         "temperature": 12.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "04-04-2026 19:38:17",
+        "temperature": 11.03,
+        "description": "few clouds"
     }
 ]
