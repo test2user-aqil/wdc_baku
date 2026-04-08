@@ -133563,5 +133563,10 @@
         "date_time": "08-04-2026 11:44:28",
         "temperature": 14.22,
         "description": "clear sky"
+    },
+    {
+        "date_time": "08-04-2026 13:10:43",
+        "temperature": 11.03,
+        "description": "broken clouds"
     }
 ]
