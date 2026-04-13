@@ -133968,5 +133968,10 @@
         "date_time": "13-04-2026 23:21:27",
         "temperature": 9.83,
         "description": "light rain"
+    },
+    {
+        "date_time": "14-04-2026 01:01:32",
+        "temperature": 9.98,
+        "description": "overcast clouds"
     }
 ]
