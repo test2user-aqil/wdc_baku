@@ -134403,5 +134403,10 @@
         "date_time": "20-04-2026 01:41:42",
         "temperature": 14.47,
         "description": "overcast clouds"
+    },
+    {
+        "date_time": "20-04-2026 02:42:05",
+        "temperature": 14.66,
+        "description": "overcast clouds"
     }
 ]
