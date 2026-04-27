@@ -134913,5 +134913,10 @@
         "date_time": "28-04-2026 00:12:05",
         "temperature": 13.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "28-04-2026 01:57:49",
+        "temperature": 13.03,
+        "description": "scattered clouds"
     }
 ]
