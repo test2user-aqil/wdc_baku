@@ -135953,5 +135953,10 @@
         "date_time": "17-05-2026 03:58:45",
         "temperature": 17.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "17-05-2026 08:13:56",
+        "temperature": 15.03,
+        "description": "light intensity shower rain"
     }
 ]
