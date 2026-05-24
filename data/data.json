@@ -136283,5 +136283,10 @@
         "date_time": "25-05-2026 00:10:34",
         "temperature": 19.03,
         "description": "light rain"
+    },
+    {
+        "date_time": "25-05-2026 01:59:43",
+        "temperature": 19.03,
+        "description": "thunderstorm with light rain"
     }
 ]
