@@ -136498,5 +136498,10 @@
         "date_time": "30-05-2026 19:14:11",
         "temperature": 16.03,
         "description": "scattered clouds"
+    },
+    {
+        "date_time": "30-05-2026 21:15:41",
+        "temperature": 15.03,
+        "description": "light intensity shower rain"
     }
 ]
