@@ -137438,5 +137438,10 @@
         "date_time": "26-06-2026 00:09:36",
         "temperature": 24.82,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "26-06-2026 02:24:16",
+        "temperature": 24.83,
+        "description": "scattered clouds"
     }
 ]
