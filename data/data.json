@@ -137528,5 +137528,10 @@
         "date_time": "28-06-2026 00:12:42",
         "temperature": 20.49,
         "description": "light rain"
+    },
+    {
+        "date_time": "28-06-2026 02:07:46",
+        "temperature": 19.65,
+        "description": "moderate rain"
     }
 ]
