@@ -138588,5 +138588,10 @@
         "date_time": "20-07-2026 12:10:06",
         "temperature": 26.93,
         "description": "few clouds"
+    },
+    {
+        "date_time": "20-07-2026 15:50:06",
+        "temperature": 27.23,
+        "description": "clear sky"
     }
 ]
