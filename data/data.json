@@ -141373,5 +141373,10 @@
         "date_time": "30-08-2026 01:35:17",
         "temperature": 25.03,
         "description": "broken clouds"
+    },
+    {
+        "date_time": "30-08-2026 04:00:05",
+        "temperature": 24.03,
+        "description": "scattered clouds"
     }
 ]
