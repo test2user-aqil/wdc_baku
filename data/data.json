@@ -141973,5 +141973,10 @@
         "date_time": "19-09-2026 14:40:58",
         "temperature": 26.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "19-09-2026 18:16:09",
+        "temperature": 24.03,
+        "description": "clear sky"
     }
 ]
