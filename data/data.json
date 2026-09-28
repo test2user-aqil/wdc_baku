@@ -142218,5 +142218,10 @@
         "date_time": "28-09-2026 10:34:11",
         "temperature": 25.03,
         "description": "few clouds"
+    },
+    {
+        "date_time": "28-09-2026 19:12:57",
+        "temperature": 24.03,
+        "description": "few clouds"
     }
 ]
