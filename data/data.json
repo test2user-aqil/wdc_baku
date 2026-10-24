@@ -142838,5 +142838,10 @@
         "date_time": "24-10-2026 23:20:45",
         "temperature": 17.03,
         "description": "clear sky"
+    },
+    {
+        "date_time": "25-10-2026 02:20:52",
+        "temperature": 17.03,
+        "description": "thunderstorm with light rain"
     }
 ]
