@@ -142863,5 +142863,10 @@
         "date_time": "25-10-2026 19:53:37",
         "temperature": 14.03,
         "description": "light intensity shower rain"
+    },
+    {
+        "date_time": "25-10-2026 22:49:54",
+        "temperature": 14.03,
+        "description": "broken clouds"
     }
 ]
